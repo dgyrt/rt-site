@@ -7,7 +7,7 @@ git add -A
 git commit -m "$now"
 git push origin master
 
-jekyll build --destination ../duguyue100.github.io
+jekyll build --destination ../dgyrt.github.io
 
 cd ../dgyrt.github.io/
 
@@ -17,4 +17,4 @@ git add -A
 
 git commit -m "$site_now"
 
-git push origin gh-pages
+git push origin master
