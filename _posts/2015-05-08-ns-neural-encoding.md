@@ -7,12 +7,12 @@ date: 2015-05-08 12:00:00
 
 ### Encoding and Decoding
 
-+ Encoding solves "how does a stimulus cause a pattern of responses?" (\\(P(\text{response}|\text{stimulus})\\)).
-+ Decoding solves "what do these responses tell us about the stimulus?" (\\(P(\text{stimulus}|\text{response})\\)).
++ Encoding solves "how does a stimulus cause a pattern of responses?" ($$P(\text{response}|\text{stimulus})$$).
++ Decoding solves "what do these responses tell us about the stimulus?" ($$P(\text{stimulus}|\text{response})$$).
 
 ### Basic Coding Model
 
-In the following context, \\(s(\cdot)\\) represents signal, \\(r(\cdot)\\) represents response, \\(f(\cdot)\\) represents filter and \\(g(\cdot)\\) represents nonlinear function.
+In the following context, $$s(\cdot)$$ represents signal, $$r(\cdot)$$ represents response, $$f(\cdot)$$ represents filter and $$g(\cdot)$$ represents nonlinear function.
 
 #### Linear response
 
@@ -23,27 +23,27 @@ $$
 #### Temporal filtering: linear filters
 
 $$
-r(t)=\sum\_{k=0}^{n}s\_{t-k}f\_{k}
+r(t)=\sum_{k=0}^{n}s_{t-k}f_{k}
 $$
 
 $$
-r(t)=\int\_{-\infty}^{t}d\,\tau s(t-\tau)f(\tau)
+r(t)=\int_{-\infty}^{t}d\,\tau s(t-\tau)f(\tau)
 $$
 
 #### Spatial filtering
 
 $$
-r(x,y)=\sum\_{x'=-n, y'=-n}^{n}s\_{x-x', y-y'}f\_{x'y'}
+r(x,y)=\sum_{x'=-n, y'=-n}^{n}s_{x-x', y-y'}f_{x'y'}
 $$
 
 $$
-r(x,y)=\int\_{-\infty}^{\infty}d\,x' d\,y' s(x-x', y-y')f(x', y')
+r(x,y)=\int_{-\infty}^{\infty}d\,x' d\,y' s(x-x', y-y')f(x', y')
 $$
 
 #### Spatio-temporal filtering
 
 $$
-r\_{x,y}(t)=\iiint d\,x' d\,y' d\,\tau f(x',y',\tau)s(x-x',y-y',t-\tau)
+r_{x,y}(t)=\iiint d\,x' d\,y' d\,\tau f(x',y',\tau)s(x-x',y-y',t-\tau)
 $$
 
 #### Linear filter & nonlinearity
@@ -61,19 +61,19 @@ We want to sample the responses of the system to many stimuli so we can characte
 Kullback-Leibler divergence: difference between two probability distribution.
 
 $$
-D\_{KL}(P(s), Q(s))=\int d\,s P(s)\log\_{2}\frac{P(s)}{Q(s)}
+D_{KL}(P(s), Q(s))=\int d\,s P(s)\log_{2}\frac{P(s)}{Q(s)}
 $$
 
 Tuning curve:
 
 $$
-P(\text{spike}|s\_{f})=\frac{P(s\_{f}|\text{spike})P(\text{spike})}{P(s\_{f})}
+P(\text{spike}|s_{f})=\frac{P(s_{f}|\text{spike})P(\text{spike})}{P(s_{f})}
 $$
 
-The Goodness measure between \\(P(s\_{f}|\text{spike})\\) and \\(P(s\_{f})\\):
+The Goodness measure between $$P(s_{f}|\text{spike})$$ and $$P(s_{f})$$:
 
 $$
-D\_{KL}(P(s\_{f}|\text{spike}), P(s\_{f}))
+D_{KL}(P(s_{f}|\text{spike}), P(s_{f}))
 $$
 
 #### Binominal spiking
@@ -81,7 +81,7 @@ $$
 Distribution:
 
 $$
-P\_{n}[k]=p^{k}(1-p)^{k}
+P_{n}[k]=p^{k}(1-p)^{k}
 $$
 
 Mean:
@@ -101,7 +101,7 @@ $$
 Distribution:
 
 $$
-P\_{T}[k]=(rT)^{k}\frac{\exp(-rT)}{k!}
+P_{T}[k]=(rT)^{k}\frac{\exp(-rT)}{k!}
 $$
 
 Mean:
