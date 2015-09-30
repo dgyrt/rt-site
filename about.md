@@ -31,7 +31,7 @@ My latest CV can be found [here](http://rt.dgyblog.com/res/current_cv.html)
 
 ### Likes
 
-`Computer` `Science` `Mathematics` `Machine Learning` `Artificial Intelligence` `Pretty PDFs` \\(\LaTeX\\) `Git` `Reasoning` `Intellectual Debates` `Moral Consequence` `Robot` `History` `Future` `Bejing Opera` `Markdown` `Marvel` `Ice-cream` `Smart Girl Engineer` `Physics` `TV Shows` `Cats and Dogs pics` `Cash` `Scientific American` `Kid that isn't mine` `Being minority` `GSoC` `Accidentally find a nice song` `Tom Hanks in girl's voice` `Chinese Calligraphy` `New Emacs Tricks` `Surprising ending` `Reading Endless Article` `Machine Learning in Browser` `Write in Emacs` `Recurrent Neural Networks`
+`Computer` `Science` `Mathematics` `Machine Learning` `Artificial Intelligence` `Pretty PDFs` $$\LaTeX$$ `Git` `Reasoning` `Intellectual Debates` `Moral Consequence` `Robot` `History` `Future` `Bejing Opera` `Markdown` `Marvel` `Ice-cream` `Smart Girl Engineer` `Physics` `TV Shows` `Cats and Dogs pics` `Cash` `Scientific American` `Kid that isn't mine` `Being minority` `GSoC` `Accidentally find a nice song` `Tom Hanks in girl's voice` `Chinese Calligraphy` `New Emacs Tricks` `Surprising ending` `Reading Endless Article` `Machine Learning in Browser` `Write in Emacs` `Recurrent Neural Networks`
 
 ### Dislikes
 
