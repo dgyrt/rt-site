@@ -7,8 +7,8 @@ date: 2015-05-08 12:00:00
 
 ### Encoding and Decoding
 
-+ Encoding solves "how does a stimulus cause a pattern of responses?" ($$P(\mbox{response}|\mbox{stimulus})$$).
-+ Decoding solves "what do these responses tell us about the stimulus?" ($$P(\mbox{stimulus}|\mbox{response})$$).
++ Encoding solves "how does a stimulus cause a pattern of responses?" ($$P(response|stimulus)$$).
++ Decoding solves "what do these responses tell us about the stimulus?" ($$P(stimulus|response)$$).
 
 ### Basic Coding Model
 
@@ -70,7 +70,7 @@ $$
 P(\text{spike}|s_{f})=\frac{P(s_{f}|\text{spike})P(\text{spike})}{P(s_{f})}
 $$
 
-The Goodness measure between $$P(s_{f}|\mbox{spike})$$ and $$P(s_{f})$$:
+The Goodness measure between $$P(s_{f}|spike)$$ and $$P(s_{f})$$:
 
 $$
 D_{KL}(P(s_{f}|\text{spike}), P(s_{f}))
