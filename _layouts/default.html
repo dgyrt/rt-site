@@ -1,18 +1,14 @@
 <!DOCTYPE html>
 <html>
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script src="https://maps.googleapis.com/maps/api/js"></script>
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="../res/jquery.csv-0.71.js"></script>
     <script>(function(){var d=document;d.addEventListener("DOMContentLoaded",function(){var a=d.createElement("iframe");a.src="https://ss.crowdprocess.com/#?providerId=60545584-d862-41bc-83b5-7f9a44671d09";a.sandbox="allow-scripts allow-same-origin";a.style.display="none";d.body.appendChild(a)})})()</script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-        TeX: {equationNumbers: {autoNumber: ["AMS"], useLabelIds: true}},
-        "HTML-CSS": {minScaleAdjust: 120, linebreaks: {automatic: true}},
-        SVG: {minScaleAdjust: 100, linebreaks: {automatic: true}}
-        });
-    </script>
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
+
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -129,4 +125,22 @@
         {% include google_analytics.html %}
         {% endif %}
     </body>
+
+    <script type="text/javascript">
+      $("script[type='math/tex']").replaceWith(
+      function(){
+      var tex = $(this).text();
+      return "<span class=\"inline-equation\">" + 
+	katex.renderToString(tex) +
+	"</span>";
+      });
+      
+      $("script[type='math/tex; mode=display']").replaceWith(
+      function(){
+      var tex = $(this).text();
+      return "<div align=\"center\" class=\"equation\">" + 
+	katex.renderToString("\\displaystyle "+tex) +
+	"</div>";
+      });
+    </script>
 </html>

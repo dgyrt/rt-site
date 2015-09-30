@@ -10,5 +10,5 @@ date: 2015-05-30 12:00:00
 Entropy is average information.
 
 $$
-H(X)=-\sum\_{i}p\_{i}\log\_{2}p\_{i}=-\int dx p(x)\log\_{2}p(x)
+H(X)=-\sum_{i}p_{i}\log_{2}p_{i}=-\int dx p(x)\log_{2}p(x)
 $$
