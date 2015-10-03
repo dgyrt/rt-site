@@ -125,6 +125,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Deep Bag-of-Features Model for Music Auto-Tagging](http://arxiv.org/abs/1508.04999) by Juhan Nam, Jorge Herrera, Kyogu Lee.
 
++ [A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding](http://arxiv.org/abs/1510.00149) by Song Han, Huizi Mao, William J. Dally.
+
 + [A Deep Pyramid Deformable Part Model for Face Detection](http://arxiv.org/abs/1508.04389) by Rajeev Ranjan, Vishal M. Patel, Rama Chellappa.
 
 + [A Hierarchical Recurrent Encoder-Decoder For Generative Context-Aware Query Suggestion](http://arxiv.org/abs/1507.02221) by Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob G. Simonsen, Jian-Yun Nie.
@@ -438,6 +440,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Training Deeper Convolutional Networks with Deep Supervision](http://arxiv.org/abs/1505.02496) by Liwei Wang, Chen-Yu Lee, Zhuowen Tu, Svetlana Lazebnik.
 
 + [Training Very Deep Networks](http://arxiv.org/abs/1507.06228) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
+
++ [Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping](http://arxiv.org/abs/1510.00098) by Michael Xie, Neal Jean, Marshall Burke, David Lobell, Stefano Ermon.
 
 + [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](http://arxiv.org/abs/1412.4729) by Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko.
 
