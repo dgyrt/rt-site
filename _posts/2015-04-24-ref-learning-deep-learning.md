@@ -165,6 +165,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167) by Sergey Ioffe and Christian Szegedy.
 
++ [Batch Normalized Recurrent Neural Networks](http://arxiv.org/abs/1510.01378) by César Laurent, Gabriel Pereyra, Philémon Brakel, Ying Zhang, Yoshua Bengio.
+
 + [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) by Thomas M. Breuel.
 
 + [Beyond Short Snipets: Deep Networks for Video Classification](http://arxiv.org/abs/1503.08909) by Joe Yue-Hei Ng, Matthew Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals, Rajat Monga, George Toderici.
@@ -278,6 +280,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Grid Long Short-Term Memory](http://arxiv.org/abs/1507.01526) by Nal Kalchbrenner, Ivo Danihelka, Alex Graves.
 
 + [Guiding Long-Short Term Memory for Image Caption Generation](http://arxiv.org/abs/1509.04942) by Xu Jia, Efstratios Gavves, Basura Fernando, Tinne Tuytelaars.
+
++ [Harvesting Discriminative Meta Objects with Deep CNN Features for Scene Classification](http://arxiv.org/abs/1510.01440) by Ruobing Wu, Baoyuan Wang, Wenping Wang, Yizhou Yu.
 
 + [Highway Networks](http://arxiv.org/abs/1505.00387) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
 
@@ -407,6 +411,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Semantic Image Segmentation via Deep Parsing Network](http://arxiv.org/abs/1509.02634) by Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang.
 
++ [SentiCap: Generating Image Descriptions with Sentiments](http://arxiv.org/abs/1510.01431) by Alexander Mathews, Lexing Xie, Xuming He.
+
 + [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/abs/1411.4555) by Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan
 
 + [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044) by Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio.
@@ -460,6 +466,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Understanding Neural Networks Through Deep Visualization](http://arxiv.org/abs/1506.06579) by Jason Yosinski, Jeff Clune, Anh Nguyen, Thomas Fuchs, Hod Lipson.
 
 + [Understand Scene Categories by Objects: A Semantic Regularized Scene Classifier Using Convolutional Neural Networks](http://arxiv.org/abs/1509.06470) by Yiyi Liao, Sarath Kodagoda, Yue Wang, Lei Shi, Yong Liu.
+
++ [Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders](http://arxiv.org/abs/1510.01442) by Huan Yang, Baoyuan Wang, Stephen Lin, David Wipf, Minyi Guo, Baining Guo.
 
 + [Unsupervised Learning of Video Representations using LSTMs](http://arxiv.org/abs/1502.04681) by Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov.
 
