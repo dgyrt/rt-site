@@ -281,6 +281,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Highway Networks](http://arxiv.org/abs/1505.00387) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
 
++ [Human Action Recognition using Factorized Spatio-Temporal Convolutional Networks](http://arxiv.org/abs/1510.00562) by Lin Sun, Kui Jia, Dit-Yan Yeung, Bertram E. Shi.
+
 + [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html) by Google DeepMind.
 
 + [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional) by Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton.
@@ -374,6 +376,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [P-CNN: Pose-based CNN Features for Action Recognition](http://arxiv.org/abs/1506.03607) by Guilhem Chéron, Ivan Laptev, Cordelia Schmid.
 
 + [R-CNN minus R](http://arxiv.org/abs/1506.06981) by Karel Lenc, Andrea Vedaldi.
+
++ [RAID: A Relation-Augmented Image Descriptor](http://arxiv.org/abs/1510.01113) by Paul Guerrero, Niloy J. Mitra, Peter Wonka.
 
 + [Random Maxout Features](http://arxiv.org/abs/1506.03705) by Youssef Mroueh, Steven Rennie, Vaibhava Goel.
 
