@@ -323,6 +323,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Learning Multiple Tasks with Deep Relationship Networks](http://arxiv.org/abs/1506.02117) by Mingsheng Long, Jianmin Wang.
 
++ [Learning Spatiotemporal Features with 3D Convolutional Networks](http://arxiv.org/abs/1412.0767) by Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri.
+
 + [Learning to Linearize Under Uncertainty](http://arxiv.org/abs/1506.03011) by Ross Goroshin, Michael Mathieu, Yann LeCun.
 
 + [Learning to See by Moving](http://arxiv.org/abs/1505.01596) by Pulkit Agrawal, Joao Carreira, Jitendra Malik.
@@ -334,6 +336,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Learning Transferable Features with Deep Adaptation Networks](http://arxiv.org/abs/1502.02791) by Mingsheng Long, Yue Cao, Jianmin Wang, Michael I. Jordan.
 
 + [Learning Wake-Sleep Recurrent Attention Models](http://arxiv.org/abs/1509.06812) by Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey.
+
++ [Leveraging Context to Support Automated Food Recognition in Restaurants](http://arxiv.org/abs/1510.02078) by Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory Abowd, Irfan Essa.
 
 + [Listen, Attend and Spell](http://arxiv.org/abs/1508.01211) by William Chan, Navdeep Jaitly, Quoc V. Le, Oriol Vinyals.
 
