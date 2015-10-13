@@ -163,6 +163,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Attention-Based Models for Speech Recognition](http://arxiv.org/abs/1506.07503) by Jan Chorowski, Dzmitry Bahdanau, Dmitriy Serdyuk, Kyunghyun Cho, Yoshua Bengio.
 
++ [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](http://arxiv.org/abs/1510.02855) by Izhar Wallach, Michael Dzamba, Abraham Heifets.
+
 + [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167) by Sergey Ioffe and Christian Szegedy.
 
 + [Batch Normalized Recurrent Neural Networks](http://arxiv.org/abs/1510.01378) by César Laurent, Gabriel Pereyra, Philémon Brakel, Ying Zhang, Yoshua Bengio.
@@ -248,6 +250,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](http://arxiv.org/abs/1406.6909) by Alexey Dosovitskiy, Philipp Fischer, Jost Tobias Springenberg, Martin Riedmiller, Thomas Brox.
 
 + [Distributed Deep Q-Learning](http://arxiv.org/abs/1508.04186) by Hao Yi Ong, Kevin Chavez, Augustus Hong.
+
++ [Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?](http://arxiv.org/abs/1510.02969) by Pooya Khorrami, Tom Le Paine, Thomas S. Huang.
 
 + [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623) by Karol Gregor, Ivo Danihelka, Alex Graves, Daan Wierstra.
 
@@ -427,6 +431,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726) by Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler.
 
++ [Spatial Semantic Regularisation for Large Scale Object Detection](http://arxiv.org/abs/1510.02949) by Damian Mrowca, Marcus Rohrbach, Judy Hoffman, Ronghang Hu, Kate Saenko, Trevor Darrell.
+
 + [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025) by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu.
 
 + [Stacked What-Where Auto-encoders](http://arxiv.org/abs/1506.02351) by Junbo Zhao, Michael Mathieu, Ross Goroshin, Yann Lecun.
@@ -438,6 +444,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [StochasticNet: Forming Deep Neural Networks via Stochastic Connectivity](http://arxiv.org/abs/1508.05463) by Mohammad Javad Shafiee, Parthipan Siva, Alexander Wong.
 
 + [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340) by Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom.
+
++ [Text-Attentional Convolutional Neural Networks for Scene Text Detection](http://arxiv.org/abs/1510.03283) by Tong He, Weilin Huang, Yu Qiao, Jian Yao.
 
 + [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788) by Thomas M. Breuel.
 
