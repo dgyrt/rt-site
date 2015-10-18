@@ -139,6 +139,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Recurrent Latent Variable Model for Sequential Data](http://arxiv.org/abs/1506.02216) by Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio.
 
++ [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820) by Ye Zhang, Byron Wallace.
+
 + [Accelerating Very Deep Convolutional Networks for Classification and Detection](http://arxiv.org/abs/1505.06798) by Xiangyu Zhang, Jianhua Zou, Kaiming He, Jian Sun.
 
 + [Action Recognition With Trajectory-Pooled Deep-Convolutional Descriptors](http://arxiv.org/abs/1505.04868) by Limin Wang, Yu Qiao, Xiaoou Tang.
@@ -168,6 +170,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167) by Sergey Ioffe and Christian Szegedy.
 
 + [Batch Normalized Recurrent Neural Networks](http://arxiv.org/abs/1510.01378) by César Laurent, Gabriel Pereyra, Philémon Brakel, Ying Zhang, Yoshua Bengio.
+
++ [Better Exploiting OS-CNNs for Better Event Recognition in Images](http://arxiv.org/abs/1510.03979) by Limin Wang, Zhe Wang, Sheng Guo, Yu Qiao.
 
 + [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) by Thomas M. Breuel.
 
@@ -202,6 +206,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection](http://arxiv.org/abs/1412.5661) by Wanli Ouyang, Xiaogang Wang, Xingyu Zeng, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Chen-Change Loy, Xiaoou Tang.
 
 + [DeepLogo: Hitting Logo Recognition with the Deep Neural Network Hammer](http://arxiv.org/abs/1510.02131) by Forrest N. Iandola, Anting Shen, Peter Gao, Kurt Keutzer.
+
++ [DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers](http://arxiv.org/abs/1510.04445) by Amir Ghodrati, Ali Diba, Marco Pedersoli, Tinne Tuytelaars, Luc Van Gool.
 
 + [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](http://arxiv.org/abs/1412.6632) by Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille.
 
@@ -442,6 +448,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Stochastic Gradient Made Stable: A Manifold Propagation Approach for Large-Scale Optimization](http://arxiv.org/abs/1506.08350) by Yadong Mu, Wei Liu, Wei Fan.
 
 + [StochasticNet: Forming Deep Neural Networks via Stochastic Connectivity](http://arxiv.org/abs/1508.05463) by Mohammad Javad Shafiee, Parthipan Siva, Alexander Wong.
+
++ [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931) by Wei Zhang, Yang Yu.
 
 + [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340) by Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom.
 
