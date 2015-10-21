@@ -209,6 +209,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers](http://arxiv.org/abs/1510.04445) by Amir Ghodrati, Ali Diba, Marco Pedersoli, Tinne Tuytelaars, Luc Van Gool.
 
++ [DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection](http://arxiv.org/abs/1510.05484) by Xi Li, Liming Zhao, Lina Wei, MingHsuan Yang, Fei Wu, Yueting Zhuang, Haibin Ling, Jingdong Wang.
+
 + [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](http://arxiv.org/abs/1412.6632) by Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille.
 
 + [Deep clustering: Discriminative embeddings for segmentation and separation](http://arxiv.org/abs/1508.04306) by John R. Hershey, Zhuo Chen, Jonathan Le Roux, Shinji Watanabe
@@ -298,6 +300,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Harvesting Discriminative Meta Objects with Deep CNN Features for Scene Classification](http://arxiv.org/abs/1510.01440) by Ruobing Wu, Baoyuan Wang, Wenping Wang, Yizhou Yu.
 
 + [Highway Networks](http://arxiv.org/abs/1505.00387) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
+
++ [How Important is Weight Symmetry in Backpropagation?](http://arxiv.org/abs/1510.05067) by Qianli Liao, Joel Z. Leibo, Tomaso Poggio.
 
 + [Human Action Recognition using Factorized Spatio-Temporal Convolutional Networks](http://arxiv.org/abs/1510.00562) by Lin Sun, Kui Jia, Dit-Yan Yeung, Bertram E. Shi.
 
