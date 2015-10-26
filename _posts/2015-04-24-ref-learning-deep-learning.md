@@ -185,6 +185,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Compressing Convolutional Neural Networks](http://arxiv.org/abs/1506.04449) by Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen.
 
++ [Confusing Deep Convolution Networks by Relabelling](http://arxiv.org/abs/1510.06925) by Leigh Robinson, Benjamin Graham.
+
 + [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](http://arxiv.org/abs/1506.03648) by Deepak Pathak, Philipp Krähenbühl, Trevor Darrell.
 
 + [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971) by Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra.
@@ -528,6 +530,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [You Only Look Once: Unified, Real-Time Object Detection](http://arxiv.org/abs/1506.02640) by Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi.
 
 + [Zero-Shot Learning via Semantic Similarity Embedding](http://arxiv.org/abs/1509.04767) by Ziming Zhang, Venkatesh Saligrama.
+
++ [ZNN - A Fast and Scalable Algorithm for Training 3D Convolutional Networks on Multi-Core and Many-Core Shared Memory Machines](http://arxiv.org/abs/1510.06706) by Aleksandar Zlateski, Kisuk Lee, H. Sebastian Seung.
 
 ### Dataset
 
