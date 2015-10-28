@@ -509,6 +509,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Using Descriptive Video Services to Create a Large Data Source for Video Annotation Research](http://arxiv.org/abs/1503.01070) by Atousa Torabi, Christopher Pal, Hugo Larochelle, Aaron Courville.
 
++ [Video Paragraph Captioning using Hierarchical Recurrent Neural Networks](http://arxiv.org/abs/1510.07712) by Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, Wei Xu.
+
 + [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078) by Andrej Karpathy, Justin Johnson, Fei-Fei Li.
 
 + [Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos](http://arxiv.org/abs/1505.05769) by Ishan Misra, Abhinav Shrivastava, Martial Hebert.
