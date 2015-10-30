@@ -165,6 +165,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Attention-Based Models for Speech Recognition](http://arxiv.org/abs/1506.07503) by Jan Chorowski, Dzmitry Bahdanau, Dmitriy Serdyuk, Kyunghyun Cho, Yoshua Bengio.
 
++ [Attention with Intention for a Neural Network Conversation Model](http://arxiv.org/abs/1510.08565) by Kaisheng Yao, Geoffrey Zweig, Baolin Peng.
+
 + [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](http://arxiv.org/abs/1510.02855) by Izhar Wallach, Michael Dzamba, Abraham Heifets.
 
 + [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167) by Sergey Ioffe and Christian Szegedy.
@@ -407,6 +409,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [RAID: A Relation-Augmented Image Descriptor](http://arxiv.org/abs/1510.01113) by Paul Guerrero, Niloy J. Mitra, Peter Wonka.
 
++ [RATM: Recurrent Attentive Tracking Model](http://arxiv.org/abs/1510.08660) by Samira Ebrahimi Kahou, Vincent Michalski, Roland Memisevic.
+
 + [Random Maxout Features](http://arxiv.org/abs/1506.03705) by Youssef Mroueh, Steven Rennie, Vaibhava Goel.
 
 + [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247) by Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu.
@@ -446,6 +450,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Spatial Semantic Regularisation for Large Scale Object Detection](http://arxiv.org/abs/1510.02949) by Damian Mrowca, Marcus Rohrbach, Judy Hoffman, Ronghang Hu, Kate Saenko, Trevor Darrell.
 
 + [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025) by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu.
+
++ [Spiking Deep Networks with LIF Neurons](http://arxiv.org/abs/1510.08829) by Eric Hunsberger, Chris Eliasmith.
 
 + [Stacked What-Where Auto-encoders](http://arxiv.org/abs/1506.02351) by Junbo Zhao, Michael Mathieu, Ross Goroshin, Yann Lecun.
 
