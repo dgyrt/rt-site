@@ -129,6 +129,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Deep Pyramid Deformable Part Model for Face Detection](http://arxiv.org/abs/1508.04389) by Rajeev Ranjan, Vishal M. Patel, Rama Chellappa.
 
++ [A Deep Siamese Network for Scene Detection in Broadcast Videos](http://arxiv.org/abs/1510.08893) by Lorenzo Baraldi, Costantino Grana, Rita Cucchiara.
+
 + [A Hierarchical Recurrent Encoder-Decoder For Generative Context-Aware Query Suggestion](http://arxiv.org/abs/1507.02221) by Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob G. Simonsen, Jian-Yun Nie.
 
 + [A Large-Scale Car Dataset for Fine-Grained Categorization and Verification](http://arxiv.org/abs/1506.08959) by Linjie Yang, Ping Luo, Chen Change Loy, Xiaoou Tang.
@@ -292,6 +294,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [From Facial Parts Responses to Face Detection: A Deep Learning Approach](http://arxiv.org/abs/1509.06451) by Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang.
 
 + [Fusing Multi-Stream Deep Networks for Video Classification](http://arxiv.org/abs/1509.06086) by Zuxuan Wu, Yu-Gang Jiang, Xi Wang, Hao Ye, Xiangyang Xue, Jun Wang.
+
++ [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202) by Hongyu Guo.
 
 + [Generative Image Modeling Using Spatial LSTMs](http://arxiv.org/abs/1506.03478) by Lucas Theis, Matthias Bethge.
 
@@ -516,6 +520,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Using Descriptive Video Services to Create a Large Data Source for Video Annotation Research](http://arxiv.org/abs/1503.01070) by Atousa Torabi, Christopher Pal, Hugo Larochelle, Aaron Courville.
 
 + [Video Paragraph Captioning using Hierarchical Recurrent Neural Networks](http://arxiv.org/abs/1510.07712) by Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, Wei Xu.
+
++ [VISALOGY: Answering Visual Analogy Questions](http://arxiv.org/abs/1510.08973) by Fereshteh Sadeghi, C. Lawrence Zitnick, Ali Farhadi.
 
 + [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078) by Andrej Karpathy, Justin Johnson, Fei-Fei Li.
 
