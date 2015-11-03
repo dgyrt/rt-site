@@ -287,6 +287,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/abs/1506.01497) by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.
 
++ [FireCaffe: near-linear acceleration of deep neural network training on compute clusters](http://arxiv.org/abs/1511.00175) by Forrest N. Iandola, Khalid Ashraf, Mattthew W. Moskewicz, Kurt Keutzer.
+
 + [FitNets: Hints for Thin Deep Nets](http://arxiv.org/abs/1412.6550) by Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio.
 
 + [FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/abs/1504.06852) by Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox.
@@ -438,6 +440,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](http://arxiv.org/abs/1506.03099) by Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer.
 
 + [Searching for Higgs Boson Decay Modes with Deep Learning](http://papers.nips.cc/paper/5351-searching-for-higgs-boson-decay-modes-with-deep-learning.pdf) by Peter Sadowski, Pierre Baldi, Daniel Whiteson.
+
++ [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](http://arxiv.org/abs/1511.00561) by Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla.
 
 + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling](http://arxiv.org/abs/1505.07293) by Vijay Badrinarayanan, Ankur Handa, Roberto Cipolla.
 
