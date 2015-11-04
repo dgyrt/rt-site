@@ -259,6 +259,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Describing Videos by Exploiting Temporal Structure](http://arxiv.org/abs/1502.08029) by Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville.
 
++ [Detecting Interrogative Utterances with Recurrent Neural Networks](http://arxiv.org/abs/1511.01042) by Junyoung Chung, Jacob Devlin, Hany Hassan Awadalla.
+
 + [Dictionary Learning and Sparse Coding for Third-order Super-symmetric Tensors](http://arxiv.org/abs/1509.02970) by Piotr Koniusz, Anoop Cherian.
 
 + [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](http://arxiv.org/abs/1406.6909) by Alexey Dosovitskiy, Philipp Fischer, Jost Tobias Springenberg, Martin Riedmiller, Thomas Brox.
