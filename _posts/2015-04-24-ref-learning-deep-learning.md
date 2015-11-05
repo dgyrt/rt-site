@@ -149,6 +149,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750) by Junhyuk Oh, Xiaoxiao Guo, Honglak Lee, Richard Lewis, Satinder Singh.
 
++ [adaQN: An Adaptive Quasi-Newton Algorithm for Training RNNs](http://arxiv.org/abs/1511.01169) by Nitish Shirish Keskar, Albert S. Berahas.
+
 + [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/abs/1507.05717) by Baoguang Shi, Xiang Bai, Cong Yao.
 
 + [Answer Sequence Learning with Neural Networks for Answer Selection in Community Question Answering](http://arxiv.org/abs/1506.06490) by Xiaoqiang Zhou, Baotian Hu, Qingcai Chen, Buzhou Tang, Xiaolong Wang.
@@ -448,6 +450,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling](http://arxiv.org/abs/1505.07293) by Vijay Badrinarayanan, Ankur Handa, Roberto Cipolla.
 
 + [Semantic Image Segmentation via Deep Parsing Network](http://arxiv.org/abs/1509.02634) by Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang.
+
++ [Semi-supervised Sequence Learning](http://arxiv.org/abs/1511.01432) by Andrew M. Dai, Quoc V. Le.
 
 + [SentiCap: Generating Image Descriptions with Sentiments](http://arxiv.org/abs/1510.01431) by Alexander Mathews, Lexing Xie, Xuming He.
 
