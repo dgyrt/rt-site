@@ -477,6 +477,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931) by Wei Zhang, Yang Yu.
 
++ [Symmetry-invariant optimization in deep networks](http://arxiv.org/abs/1511.01754) by Vijay Badrinarayanan, Bamdev Mishra, Roberto Cipolla.
+
 + [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340) by Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom.
 
 + [Text-Attentional Convolutional Neural Networks for Scene Text Detection](http://arxiv.org/abs/1510.03283) by Tong He, Weilin Huang, Yu Qiao, Jian Yao.
