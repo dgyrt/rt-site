@@ -235,6 +235,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751) by Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus.
 
++ [Deep Kernel Learning](http://arxiv.org/abs/1511.02222) by Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing.
+
 + [Deep Knowledge Tracing](http://arxiv.org/abs/1506.05908) by Chris Piech, Jonathan Spencer, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein.
 
 + [Deep Learning Face Attributes in the Wild](http://arxiv.org/abs/1411.7766) by Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang.
@@ -442,6 +444,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Scaling Up Natural Gradient by Sparsely Factorizing the Inverse Fisher Matrix](http://www.cs.toronto.edu/~rgrosse/icml2015-fang.pdf) by Roger B. Grosse, Ruslan Salakhutdinov.
 
 + [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](http://arxiv.org/abs/1506.03099) by Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer.
+
++ [Search-Convolutional Neural Networks](http://arxiv.org/abs/1511.02136) by James Atwood, Don Towsley.
 
 + [Searching for Higgs Boson Decay Modes with Deep Learning](http://papers.nips.cc/paper/5351-searching-for-higgs-boson-decay-modes-with-deep-learning.pdf) by Peter Sadowski, Pierre Baldi, Daniel Whiteson.
 
