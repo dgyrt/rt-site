@@ -135,6 +135,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Large-Scale Car Dataset for Fine-Grained Categorization and Verification](http://arxiv.org/abs/1506.08959) by Linjie Yang, Ping Luo, Chen Change Loy, Xiaoou Tang.
 
++ [A Lightened CNN for Deep Face Representation](http://arxiv.org/abs/1511.02683) by Xiang Wu, Ran He, Zhenan Sun.
+
 + [A Multi-scale Multiple Instance Video Description Network](http://arxiv.org/abs/1505.05914) by Huijuan Xu, Subhashini Venugopalan, Vasili Ramanishka, Marcus Rohrbach, Kate Saenko.
 
 + [A Neural Attention Model for Abstractive Sentence Summarization](http://arxiv.org/abs/1509.00685) by Alexander M. Rush, Sumit Chopra, Jason Weston.
@@ -176,6 +178,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167) by Sergey Ioffe and Christian Szegedy.
 
 + [Batch Normalized Recurrent Neural Networks](http://arxiv.org/abs/1510.01378) by César Laurent, Gabriel Pereyra, Philémon Brakel, Ying Zhang, Yoshua Bengio.
+
++ [Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding](http://arxiv.org/abs/1511.02680) by Alex Kendall, Vijay Badrinarayanan, Roberto Cipolla.
 
 + [Better Exploiting OS-CNNs for Better Event Recognition in Images](http://arxiv.org/abs/1510.03979) by Limin Wang, Zhe Wang, Sheng Guo, Yu Qiao.
 
@@ -221,6 +225,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](http://arxiv.org/abs/1412.6632) by Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille.
 
++ [Deep Compositional Question Answering with Neural Module Networks](http://arxiv.org/abs/1511.02799) by Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.
+
 + [Deep clustering: Discriminative embeddings for segmentation and separation](http://arxiv.org/abs/1508.04306) by John R. Hershey, Zhuo Chen, Jonathan Le Roux, Shinji Watanabe
 
 + [Deep CNN Ensemble with Data Augmentation for Object Detection](http://arxiv.org/abs/1506.07224) by Jian Guo, Stephen Gould.
@@ -248,6 +254,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527) by Matthew Hausknecht, Peter Stone.
 
 + [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461) by Hado van Hasselt, Arthur Guez, David Silver.
+
++ [Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images](http://arxiv.org/abs/1511.02300) by Shuran Song, Jianxiong Xiao.
 
 + [Deep SimNets](http://arxiv.org/abs/1506.03059) by Nadav Cohen, Or Sharir, Amnon Shashua.
 
@@ -303,6 +311,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Fusing Multi-Stream Deep Networks for Video Classification](http://arxiv.org/abs/1509.06086) by Zuxuan Wu, Yu-Gang Jiang, Xi Wang, Hao Ye, Xiangyang Xue, Jun Wang.
 
++ [Generating Images from Captions with Attention](http://arxiv.org/abs/1511.02793) by Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov.
+
 + [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202) by Hongyu Guo.
 
 + [Generative Image Modeling Using Spatial LSTMs](http://arxiv.org/abs/1506.03478) by Lucas Theis, Matthias Bethge.
@@ -316,6 +326,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Harvesting Discriminative Meta Objects with Deep CNN Features for Scene Classification](http://arxiv.org/abs/1510.01440) by Ruobing Wu, Baoyuan Wang, Wenping Wang, Yizhou Yu.
 
 + [Highway Networks](http://arxiv.org/abs/1505.00387) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
+
++ [How far can we go without convolution: Improving fully-connected networks](http://arxiv.org/abs/1511.02580) by Zhouhan Lin, Roland Memisevic, Kishore Konda.
 
 + [How Important is Weight Symmetry in Backpropagation?](http://arxiv.org/abs/1510.05067) by Qianli Liao, Joel Z. Leibo, Tomaso Poggio.
 
@@ -371,11 +383,15 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Learning Wake-Sleep Recurrent Attention Models](http://arxiv.org/abs/1509.06812) by Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey.
 
++ [Learning Visual Features from Large Weakly Supervised Data](http://arxiv.org/abs/1511.02251) by Armand Joulin, Laurens van der Maaten, Allan Jabri, Nicolas Vasilache.
+
 + [Leveraging Context to Support Automated Food Recognition in Restaurants](http://arxiv.org/abs/1510.02078) by Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory Abowd, Irfan Essa.
 
 + [Listen, Attend and Spell](http://arxiv.org/abs/1508.01211) by William Chan, Navdeep Jaitly, Quoc V. Le, Oriol Vinyals.
 
 + [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089) by Hongyuan Mei, Mohit Bansal, Matthew R. Walter.
+
++ [LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks](http://arxiv.org/abs/1511.02462) by Steven C.H. Hoi, Xiongwei Wu, Hantang Liu, Yue Wu, Huiqiong Wang, Hui Xue, Qiang Wu.
 
 + [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://jeffdonahue.com/lrcn/) by Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell.
 
@@ -470,6 +486,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025) by Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu.
 
 + [Spiking Deep Networks with LIF Neurons](http://arxiv.org/abs/1510.08829) by Eric Hunsberger, Chris Eliasmith.
+
++ [Stacked Attention Networks for Image Question Answering](http://arxiv.org/abs/1511.02274) by Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola.
 
 + [Stacked What-Where Auto-encoders](http://arxiv.org/abs/1506.02351) by Junbo Zhao, Michael Mathieu, Ross Goroshin, Yann Lecun.
 
