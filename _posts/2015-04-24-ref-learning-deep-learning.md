@@ -563,6 +563,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Weakly-Supervised Alignment of Video With Text](http://arxiv.org/abs/1505.06027) by P. Bojanowski, R. Lagugie, Edouard Grave, Francis Bach, I. Laptev, J. Ponce, C. Schmid.
 
++ [Weakly Supervised Deep Detection Networks](http://arxiv.org/abs/1511.02853) by Hakan Bilen, Andrea Vedaldi.
+
 + [Weight Uncertainty in Neural Networks](http://arxiv.org/abs/1505.05424) by Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra.
 
 + [What is Holding Back Convnets for Detection?](http://arxiv.org/abs/1508.02844) by Bojan Pepik, Rodrigo Benenson, Tobias Ritschel, Bernt Schiele.
