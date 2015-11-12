@@ -171,6 +171,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Attention-Based Models for Speech Recognition](http://arxiv.org/abs/1506.07503) by Jan Chorowski, Dzmitry Bahdanau, Dmitriy Serdyuk, Kyunghyun Cho, Yoshua Bengio.
 
++ [Attention to Scale: Scale-aware Semantic Image Segmentation](http://arxiv.org/abs/1511.03339) by Liang-Chieh Chen, Yi Yang, Jiang Wang, Wei Xu, Alan L. Yuille.
+
 + [Attention with Intention for a Neural Network Conversation Model](http://arxiv.org/abs/1510.08565) by Kaisheng Yao, Geoffrey Zweig, Baolin Peng.
 
 + [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](http://arxiv.org/abs/1510.02855) by Izhar Wallach, Michael Dzamba, Abraham Heifets.
@@ -324,6 +326,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Guiding Long-Short Term Memory for Image Caption Generation](http://arxiv.org/abs/1509.04942) by Xu Jia, Efstratios Gavves, Basura Fernando, Tinne Tuytelaars.
 
 + [Harvesting Discriminative Meta Objects with Deep CNN Features for Scene Classification](http://arxiv.org/abs/1510.01440) by Ruobing Wu, Baoyuan Wang, Wenping Wang, Yizhou Yu.
+
++ [Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning](http://arxiv.org/abs/1511.03476) by Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang.
 
 + [Highway Networks](http://arxiv.org/abs/1505.00387) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
 
@@ -558,6 +562,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [VISALOGY: Answering Visual Analogy Questions](http://arxiv.org/abs/1510.08973) by Fereshteh Sadeghi, C. Lawrence Zitnick, Ali Farhadi.
 
 + [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078) by Andrej Karpathy, Justin Johnson, Fei-Fei Li.
+
++ [Visual7W: Grounded Question Answering in Images](http://arxiv.org/abs/1511.03416) by Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei.
 
 + [Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos](http://arxiv.org/abs/1505.05769) by Ishan Misra, Abhinav Shrivastava, Martial Hebert.
 
