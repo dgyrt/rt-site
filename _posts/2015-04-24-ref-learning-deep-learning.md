@@ -395,6 +395,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089) by Hongyuan Mei, Mohit Bansal, Matthew R. Walter.
 
++ [LLNet: A Deep Autoencoder Approach to Natural Low-light Image Enhancement](http://arxiv.org/abs/1511.03995) by Kin Gwn Lore, Adedotun Akintayo, Soumik Sarkar.
+
 + [LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks](http://arxiv.org/abs/1511.02462) by Steven C.H. Hoi, Xiongwei Wu, Hantang Liu, Yue Wu, Huiqiong Wang, Hui Xue, Qiang Wu.
 
 + [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://jeffdonahue.com/lrcn/) by Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell.
@@ -518,6 +520,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Towards Good Practices for Very Deep Two-Stream ConvNets](http://arxiv.org/abs/1507.02159) by Limin Wang, Yuanjun Xiong, Zhe Wang, Yu Qiao.
 
 + [Towards universal neural nets: Gibbs machines and ACE](http://arxiv.org/abs/1508.06585) by Galin Georgiev.
+
++ [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791) by Fangyi Zhang, Juergen Leitner, Michael Milford, Ben Upcroft, Peter Corke.
 
 + [Train faster, generalize better: Stability of stochastic gradient descent](http://arxiv.org/abs/1509.01240) by Moritz Hardt, Benjamin Recht, Yoram Singer.
 
