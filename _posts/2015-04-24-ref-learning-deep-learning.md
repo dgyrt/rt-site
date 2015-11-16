@@ -147,6 +147,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Accelerating Very Deep Convolutional Networks for Classification and Detection](http://arxiv.org/abs/1505.06798) by Xiangyu Zhang, Jianhua Zou, Kaiming He, Jian Sun.
 
++ [Action Recognition using Visual Attention](http://arxiv.org/abs/1511.04119) by Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov.
+
 + [Action Recognition With Trajectory-Pooled Deep-Convolutional Descriptors](http://arxiv.org/abs/1505.04868) by Limin Wang, Yu Qiao, Xiaoou Tang.
 
 + [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750) by Junhyuk Oh, Xiaoxiao Guo, Honglak Lee, Richard Lewis, Satinder Singh.
@@ -254,6 +256,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Deep Networks with Internal Selective Attention through Feedback Connections](http://arxiv.org/abs/1407.3068) by Marijn Stollenga, Jonathan Masci, Faustino Gomez, Jürgen Schmidhuber.
 
 + [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527) by Matthew Hausknecht, Peter Stone.
+
++ [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143) by Matthew Hausknecht, Peter Stone.
 
 + [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461) by Hado van Hasselt, Arthur Guez, David Silver.
 
