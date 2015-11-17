@@ -147,6 +147,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Accelerating Very Deep Convolutional Networks for Classification and Detection](http://arxiv.org/abs/1505.06798) by Xiangyu Zhang, Jianhua Zou, Kaiming He, Jian Sun.
 
++ [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://arxiv.org/abs/1511.04587) by Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee.
+
 + [Action Recognition using Visual Attention](http://arxiv.org/abs/1511.04119) by Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov.
 
 + [Action Recognition With Trajectory-Pooled Deep-Convolutional Descriptors](http://arxiv.org/abs/1505.04868) by Limin Wang, Yu Qiao, Xiaoou Tang.
@@ -219,6 +221,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [DeepFont: Identify Your Font from An Image](http://arxiv.org/abs/1507.03196) by Zhangyang Wang, Jianchao Yang, Hailin Jin, Eli Shechtman, Aseem Agarwala, Jonathan Brandt, Thomas S. Huang.
 
++ [DeepFool: a simple and accurate method to fool deep neural networks](http://arxiv.org/abs/1511.04599) by Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Pascal Frossard.
+
 + [DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection](http://arxiv.org/abs/1412.5661) by Wanli Ouyang, Xiaogang Wang, Xingyu Zeng, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Chen-Change Loy, Xiaoou Tang.
 
 + [DeepLogo: Hitting Logo Recognition with the Deep Neural Network Hammer](http://arxiv.org/abs/1510.02131) by Forrest N. Iandola, Anting Shen, Peter Gao, Kurt Keutzer.
@@ -258,6 +262,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527) by Matthew Hausknecht, Peter Stone.
 
 + [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143) by Matthew Hausknecht, Peter Stone.
+
++ [Deep Reinforcement Learning with an Unbounded Action Space](http://arxiv.org/abs/1511.04636) by Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng, Mari Ostendorf.
 
 + [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461) by Hado van Hasselt, Arthur Guez, David Silver.
 
@@ -370,6 +376,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Learning Contextual Dependencies with Convolutional Hierarchical Recurrent Neural Networks](http://arxiv.org/abs/1509.03877) by Zhen Zuo, Bing Shuai, Gang Wang, Xiao Liu, Xingxing Wang, Bing Wang.
 
 + [Learning Deconvolution Network for Semantic Segmentation](http://arxiv.org/abs/1505.04366) by Hyeonwoo Noh, Seunghoon Hong, Bohyung Han.
+
++ [Learning Fine-grained Features via a CNN Tree for Large-scale Classification](http://arxiv.org/abs/1511.04534) by Zhenhua Wang, Xingxing Wang, Gang Wang.
 
 + [Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images](http://arxiv.org/abs/1504.06692) by Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille.
 
@@ -534,6 +542,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Training Deep Networks with Structured Layers by Matrix Backpropagation](http://arxiv.org/abs/1509.07838) by Catalin Ionescu, Orestis Vantzos, Cristian Sminchisescu.
 
 + [Training Deeper Convolutional Networks with Deep Supervision](http://arxiv.org/abs/1505.02496) by Liwei Wang, Chen-Yu Lee, Zhuowen Tu, Svetlana Lazebnik.
+
++ [Trainable performance upper bounds for image and video captioning](http://arxiv.org/abs/1511.04590) by Li Yao, Nicolas Ballas, Kyunghyun Cho, John R. Smith, Yoshua Bengio.
 
 + [Training Very Deep Networks](http://arxiv.org/abs/1507.06228) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
 
