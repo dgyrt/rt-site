@@ -261,6 +261,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527) by Matthew Hausknecht, Peter Stone.
 
++ [Deeply-Recursive Convolutional Network for Image Super-Resolution.pdf](http://arxiv.org/abs/1511.04491) by Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee.
+
 + [Deep Reinforcement Learning in Parameterized Action Space](http://arxiv.org/abs/1511.04143) by Matthew Hausknecht, Peter Stone.
 
 + [Deep Reinforcement Learning with an Unbounded Action Space](http://arxiv.org/abs/1511.04636) by Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng, Mari Ostendorf.
