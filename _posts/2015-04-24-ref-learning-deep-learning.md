@@ -167,6 +167,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Artificial Neural Networks Applied to Taxi Destination Prediction](http://arxiv.org/abs/1508.00021) by Alexandre de Brébisson, Étienne Simon, Alex Auvolat, Pascal Vincent, Yoshua Bengio.
 
++ [Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering](http://arxiv.org/abs/1511.05234) by Huijuan Xu, Kate Saenko.
+
 + [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285) by Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Ishaan Gulrajani, Richard Socher.
 
 + [Ask Your Neurons: A Neural-based Approach to Answering Questions about Images](http://arxiv.org/abs/1505.01121) by Mateusz Malinowski, Marcus Rohrbach, Mario Fritz.
@@ -238,6 +240,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Deep clustering: Discriminative embeddings for segmentation and separation](http://arxiv.org/abs/1508.04306) by John R. Hershey, Zhuo Chen, Jonathan Le Roux, Shinji Watanabe
 
 + [Deep CNN Ensemble with Data Augmentation for Object Detection](http://arxiv.org/abs/1506.07224) by Jian Guo, Stephen Gould.
+
++ [Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data](http://arxiv.org/abs/1511.05284) by Lisa Anne Hendricks, Subhashini Venugopalan, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Trevor Darrell.
 
 + [Deep Convolutional Matching](http://arxiv.org/abs/1506.07656) by Jerome Revaud, Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid.
 
@@ -580,6 +584,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Video Paragraph Captioning using Hierarchical Recurrent Neural Networks](http://arxiv.org/abs/1510.07712) by Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, Wei Xu.
 
 + [VISALOGY: Answering Visual Analogy Questions](http://arxiv.org/abs/1510.08973) by Fereshteh Sadeghi, C. Lawrence Zitnick, Ali Farhadi.
+
++ [Visualizing and Understanding Deep Texture Representations](http://arxiv.org/abs/1511.05197) by Tsung-Yu Lin, Subhransu Maji.
 
 + [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078) by Andrej Karpathy, Justin Johnson, Fei-Fei Li.
 
