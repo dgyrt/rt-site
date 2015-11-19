@@ -157,6 +157,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [adaQN: An Adaptive Quasi-Newton Algorithm for Training RNNs](http://arxiv.org/abs/1511.01169) by Nitish Shirish Keskar, Albert S. Berahas.
 
++ [Adversarial Autoencoders](http://arxiv.org/abs/1511.05644) by Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow.
+
 + [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/abs/1507.05717) by Baoguang Shi, Xiang Bai, Cong Yao.
 
 + [Answer Sequence Learning with Neural Networks for Answer Selection in Community Question Answering](http://arxiv.org/abs/1506.06490) by Xiaoqiang Zhou, Baotian Hu, Qingcai Chen, Buzhou Tang, Xiaolong Wang.
@@ -200,6 +202,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Bottom-up and top-down reasoning with convolutional latent-variable models](http://arxiv.org/abs/1507.05699) by Peiyun Hu, Deva Ramanan.
 
 + [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626) by Xiang Zhang, Junbo Zhao, Yann LeCun.
+
++ [Compositional Memory for Visual Question Answering](http://arxiv.org/abs/1511.05676) by Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li.
 
 + [Compressing Convolutional Neural Networks](http://arxiv.org/abs/1506.04449) by Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen.
 
@@ -367,6 +371,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Image Question Answering: A Visual Semantic Embedding Model and a New Dataset](http://arxiv.org/abs/1505.02074) by Mengye Ren, Ryan Kiros, Richard Zemel.
 
++ [Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction](http://arxiv.org/abs/1511.05756) by Hyeonwoo Noh, Paul Hongsuck Seo, Bohyung Han.
+
 + [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519) by Yuri Burda, Roger Grosse, Ruslan Salakhutdinov.
 
 + [Indexing of CNN Features for Large Scale Image Search](http://arxiv.org/abs/1508.00217) by Ruoyu Liu, Yao Zhao, Shikui Wei, Zhenfeng Zhu, Lixin Liao, Shuang Qiu.
@@ -436,6 +442,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Natural Neural Networks](http://arxiv.org/abs/1507.00210) by Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, Koray Kavukcuoglu.
 
 + [Neighborhood Watch: Stochastic Gradient Descent with Neighbors](http://arxiv.org/abs/1506.03662) by Thomas Hofmann, Aurelien Lucchi, Brian McWilliams.
+
++ [Net2Net: Accelerating Learning via Knowledge Transfer](http://arxiv.org/abs/1511.05641) by Tianqi Chen, Ian Goodfellow, Jonathon Shlens.
 
 + [On the Convergence of SGD Training of Neural Networks](http://arxiv.org/abs/1508.02790) by Thomas M. Breuel.
 
@@ -520,6 +528,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Stochastic Gradient Made Stable: A Manifold Propagation Approach for Large-Scale Optimization](http://arxiv.org/abs/1506.08350) by Yadong Mu, Wei Liu, Wei Fan.
 
 + [StochasticNet: Forming Deep Neural Networks via Stochastic Connectivity](http://arxiv.org/abs/1508.05463) by Mohammad Javad Shafiee, Parthipan Siva, Alexander Wong.
+
++ [Super-Resolution with Deep Convolutional Sufficient Statistics](http://arxiv.org/abs/1511.05666) by Joan Bruna, Pablo Sprechmann, Yann LeCun.
 
 + [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931) by Wei Zhang, Yang Yu.
 
