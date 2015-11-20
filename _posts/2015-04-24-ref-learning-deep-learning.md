@@ -145,6 +145,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820) by Ye Zhang, Byron Wallace.
 
++ [ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering](http://arxiv.org/abs/1511.05960) by Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia.
+
 + [Accelerating Very Deep Convolutional Networks for Classification and Detection](http://arxiv.org/abs/1505.06798) by Xiangyu Zhang, Jianhua Zou, Kaiming He, Jian Sun.
 
 + [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://arxiv.org/abs/1511.04587) by Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee.
@@ -154,6 +156,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Action Recognition With Trajectory-Pooled Deep-Convolutional Descriptors](http://arxiv.org/abs/1505.04868) by Limin Wang, Yu Qiao, Xiaoou Tang.
 
 + [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/abs/1507.08750) by Junhyuk Oh, Xiaoxiao Guo, Honglak Lee, Richard Lewis, Satinder Singh.
+
++ [Active Object Localization with Deep Reinforcement Learning](http://arxiv.org/abs/1511.06015) by Juan C. Caicedo, Svetlana Lazebnik.
 
 + [adaQN: An Adaptive Quasi-Newton Algorithm for Training RNNs](http://arxiv.org/abs/1511.01169) by Nitish Shirish Keskar, Albert S. Berahas.
 
@@ -212,6 +216,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](http://arxiv.org/abs/1506.03648) by Deepak Pathak, Philipp Krähenbühl, Trevor Darrell.
 
 + [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971) by Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra.
+
++ [Convolutional Clustering for Unsupervised Learning](http://arxiv.org/abs/1511.06241) by Aysegul Dundar, Jonghoon Jin, Eugenio Culurciello.
 
 + [Convolutional Color Constancy](http://arxiv.org/abs/1507.00410) by Jonathan T. Barron.
 
@@ -531,6 +537,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Super-Resolution with Deep Convolutional Sufficient Statistics](http://arxiv.org/abs/1511.05666) by Joan Bruna, Pablo Sprechmann, Yann LeCun.
 
++ [Structured Depth Prediction in Challenging Monocular Video Sequences](http://arxiv.org/abs/1511.06070) by Miaomiao Liu, Mathieu Salzmann, Xuming He.
+
 + [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931) by Wei Zhang, Yang Yu.
 
 + [Symmetry-invariant optimization in deep networks](http://arxiv.org/abs/1511.01754) by Vijay Badrinarayanan, Bamdev Mishra, Roberto Cipolla.
@@ -590,6 +598,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Unsupervised Visual Representation Learning by Context Prediction](http://arxiv.org/abs/1505.05192) by Carl Doersch, Abhinav Gupta, Alexei A. Efros.
 
 + [Using Descriptive Video Services to Create a Large Data Source for Video Annotation Research](http://arxiv.org/abs/1503.01070) by Atousa Torabi, Christopher Pal, Hugo Larochelle, Aaron Courville.
+
++ [Variable Rate Image Compression with Recurrent Neural Networks](http://arxiv.org/abs/1511.06085) by George Toderici, Sean M. O'Malley, Sung Jin Hwang, Damien Vincent, David Minnen, Shumeet Baluja, Michele Covell, Rahul Sukthankar.
 
 + [Video Paragraph Captioning using Hierarchical Recurrent Neural Networks](http://arxiv.org/abs/1510.07712) by Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, Wei Xu.
 
