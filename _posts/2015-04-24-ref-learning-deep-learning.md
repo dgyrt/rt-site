@@ -163,6 +163,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Adversarial Autoencoders](http://arxiv.org/abs/1511.05644) by Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow.
 
++ [All you need is a good init](http://arxiv.org/abs/1511.06422) by Dmytro Mishkin, Jiri Matas.
+
 + [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/abs/1507.05717) by Baoguang Shi, Xiang Bai, Cong Yao.
 
 + [Answer Sequence Learning with Neural Networks for Answer Selection in Community Question Answering](http://arxiv.org/abs/1506.06490) by Xiaoqiang Zhou, Baotian Hu, Qingcai Chen, Buzhou Tang, Xiaolong Wang.
@@ -195,6 +197,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding](http://arxiv.org/abs/1511.02680) by Alex Kendall, Vijay Badrinarayanan, Roberto Cipolla.
 
++ [Better Computer Go Player with Neural Network and Long-term Prediction](http://arxiv.org/abs/1511.06410) by Yuandong Tian, Yan Zhu.
+
 + [Better Exploiting OS-CNNs for Better Event Recognition in Images](http://arxiv.org/abs/1510.03979) by Limin Wang, Zhe Wang, Sheng Guo, Yu Qiao.
 
 + [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) by Thomas M. Breuel.
@@ -203,6 +207,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Beyond Temporal Pooling: Recurrence and Temporal Convolutions for Gesture Recognition in Video](http://arxiv.org/abs/1506.01911) by Lionel Pigou, Aäron van den Oord, Sander Dieleman, Mieke Van Herreweghe, Joni Dambre.
 
++ [Binding via Reconstruction Clustering](http://arxiv.org/abs/1511.06418) by Klaus Greff, Rupesh Kumar Srivastava, Jürgen Schmidhuber.
+
 + [Bottom-up and top-down reasoning with convolutional latent-variable models](http://arxiv.org/abs/1507.05699) by Peiyun Hu, Deva Ramanan.
 
 + [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626) by Xiang Zhang, Junbo Zhao, Yann LeCun.
@@ -210,6 +216,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Compositional Memory for Visual Question Answering](http://arxiv.org/abs/1511.05676) by Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li.
 
 + [Compressing Convolutional Neural Networks](http://arxiv.org/abs/1506.04449) by Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen.
+
++ [Compressing LSTMs into CNNs](http://arxiv.org/abs/1511.06433) by Krzysztof J. Geras, Abdel-rahman Mohamed, Rich Caruana, Gregor Urban, Shengjie Wang, Ozlem Aslan, Matthai Philipose, Matthew Richardson, Charles Sutton.
 
 + [Confusing Deep Convolution Networks by Relabelling](http://arxiv.org/abs/1510.06925) by Leigh Robinson, Benjamin Graham.
 
@@ -293,6 +301,10 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deeply Improved Sparse Coding for Image Super-Resolution](http://arxiv.org/abs/1507.08905) by Zhaowen Wang, Ding Liu, Jianchao Yang, Wei Han, Thomas Huang.
 
++ [Delving Deeper into Convolutional Networks for Learning Video Representations](http://arxiv.org/abs/1511.06432) by Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville.
+
++ [Denoising Criterion for Variational Auto-Encoding Framework](http://arxiv.org/abs/1511.06406) by Daniel Jiwoong Im, Sungjin Ahn, Roland Memisevic, Yoshua Bengio.
+
 + [DenseBox: Unifying Landmark Localization with End to End Object Detection](http://arxiv.org/abs/1509.04874) by Lichao Huang, Yi Yang, Yafeng Deng, Yinan Yu.
 
 + [Describing Multimedia Content using Attention-based Encoder--Decoder Networks](http://arxiv.org/abs/1507.01053) by Kyunghyun Cho, Aaron Courville, Yoshua Bengio.
@@ -329,7 +341,11 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/abs/1506.01497) by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.
 
++ [Feature-based Attention in Convolutional Neural Networks](http://arxiv.org/abs/1511.06408) by Grace W. Lindsay.
+
 + [FireCaffe: near-linear acceleration of deep neural network training on compute clusters](http://arxiv.org/abs/1511.00175) by Forrest N. Iandola, Khalid Ashraf, Mattthew W. Moskewicz, Kurt Keutzer.
+
++ [First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks](http://arxiv.org/abs/1511.06425) by Quan Gan, Qipeng Guo, Zheng Zhang, Kyunghyun Cho.
 
 + [FitNets: Hints for Thin Deep Nets](http://arxiv.org/abs/1412.6550) by Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio.
 
