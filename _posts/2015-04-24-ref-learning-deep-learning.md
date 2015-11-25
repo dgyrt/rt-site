@@ -229,6 +229,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971) by Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra.
 
++ [Convergent Learning: Do different neural networks learn the same representations?](http://arxiv.org/abs/1511.07543) by Yixuan Li, Jason Yosinski, Jeff Clune, Hod Lipson, John Hopcroft.
+
 + [Convolutional Clustering for Unsupervised Learning](http://arxiv.org/abs/1511.06241) by Aysegul Dundar, Jonghoon Jin, Eugenio Culurciello.
 
 + [Convolutional Color Constancy](http://arxiv.org/abs/1507.00410) by Jonathan T. Barron.
@@ -311,6 +313,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Denoising Criterion for Variational Auto-Encoding Framework](http://arxiv.org/abs/1511.06406) by Daniel Jiwoong Im, Sungjin Ahn, Roland Memisevic, Yoshua Bengio.
 
++ [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](http://arxiv.org/abs/1511.07571) by Justin Johnson, Andrej Karpathy, Li Fei-Fei.
+
 + [DenseBox: Unifying Landmark Localization with End to End Object Detection](http://arxiv.org/abs/1509.04874) by Lichao Huang, Yi Yang, Yafeng Deng, Yinan Yu.
 
 + [Describing Multimedia Content using Attention-based Encoder--Decoder Networks](http://arxiv.org/abs/1507.01053) by Kyunghyun Cho, Aaron Courville, Yoshua Bengio.
@@ -334,6 +338,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [End-to-End Attention-based Large Vocabulary Speech Recognition](http://arxiv.org/abs/1508.04395) by Dzmitry Bahdanau, Jan Chorowski, Dmitriy Serdyuk, Philemon Brakel, Yoshua Bengio.
 
 + [End-to-end Learning of Action Detection from Frame Glimpses in Videos](http://arxiv.org/abs/1511.06984) by Serena Yeung, Olga Russakovsky, Greg Mori, Li Fei-Fei.
+
++ [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895) by Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus.
 
 + [End-to-end people detection in crowded scenes](http://arxiv.org/abs/1506.04878) by Russell Stewart, Mykhaylo Andriluka.
 
@@ -454,6 +460,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089) by Hongyuan Mei, Mohit Bansal, Matthew R. Walter.
 
 + [LLNet: A Deep Autoencoder Approach to Natural Low-light Image Enhancement](http://arxiv.org/abs/1511.03995) by Kin Gwn Lore, Adedotun Akintayo, Soumik Sarkar.
+
++ [LocNet: Improving Localization Accuracy for Object Detection](http://arxiv.org/abs/1511.07763) by Spyros Gidaris, Nikos Komodakis.
 
 + [LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks](http://arxiv.org/abs/1511.02462) by Steven C.H. Hoi, Xiongwei Wu, Hantang Liu, Yue Wu, Huiqiong Wang, Hui Xue, Qiang Wu.
 
