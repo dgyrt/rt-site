@@ -5,8 +5,6 @@ category: ref
 date: 2015-04-24 12:00:00
 ---
 
-__[NOTICE]__ I'm in the middle of adding NLP and Speech Recognition key references.
-
 There are lots of awesome reading lists or posts that summarized materials related to Deep Learning. So why would I commit another one? Well, the primary objective is to develop a complete reading list that allows readers to build a solid academic and practical background of Deep Learning. And this list is developed while I'm preparing my Deep Learning workshop. My research is related to Deep Neural Networks (DNNs) in general. Hence, this posts tends to summary contributions in DNNs instead of generative models.
 
 ### For Novice
@@ -477,15 +475,21 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Modelling Uncertainty in Deep Learning for Camera Relocalization](http://arxiv.org/abs/1509.05909) by Alex Kendall, Roberto Cipolla.
 
++ [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779) by Ardi Tampuu, Tambet Matiisen, Dorian Kodelja, Ilya Kuzovkin, Kristjan Korjus, Juhan Aru, Jaan Aru, Raul Vicente.
+
 + [Multi-view Machines](http://arxiv.org/abs/1506.01110) by Bokai Cao, Hucheng Zhou, Philip S. Yu.
 
 + [Multimodal Deep Learning for Robust RGB-D Object Recognition](http://arxiv.org/abs/1507.06821) by Andreas Eitel, Jost Tobias Springenberg, Luciano Spinello, Martin Riedmiller, Wolfram Burgard.
+
++ [Named Entity Recognition with Bidirectional LSTM-CNNs](http://arxiv.org/abs/1511.08308) by Jason P.C. Chiu, Eric Nichols.
 
 + [Natural Neural Networks](http://arxiv.org/abs/1507.00210) by Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, Koray Kavukcuoglu.
 
 + [Neighborhood Watch: Stochastic Gradient Descent with Neighbors](http://arxiv.org/abs/1506.03662) by Thomas Hofmann, Aurelien Lucchi, Brian McWilliams.
 
 + [Net2Net: Accelerating Learning via Knowledge Transfer](http://arxiv.org/abs/1511.05641) by Tianqi Chen, Ian Goodfellow, Jonathon Shlens.
+
++ [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) by Łukasz Kaiser, Ilya Sutskever.
 
 + [On the Convergence of SGD Training of Neural Networks](http://arxiv.org/abs/1508.02790) by Thomas M. Breuel.
 
@@ -514,6 +518,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [RATM: Recurrent Attentive Tracking Model](http://arxiv.org/abs/1510.08660) by Samira Ebrahimi Kahou, Vincent Michalski, Roland Memisevic.
 
 + [Random Maxout Features](http://arxiv.org/abs/1506.03705) by Youssef Mroueh, Steven Rennie, Vaibhava Goel.
+
++ [Recurrent Instance Segmentation](http://arxiv.org/abs/1511.08250) by Bernardino Romera-Paredes, Philip H. S. Torr.
 
 + [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247) by Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu.
 
@@ -590,6 +596,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [The Effects of Hyperparameters on SGD Training of Neural Networks](http://arxiv.org/abs/1508.02788) by Thomas M. Breuel.
 
 + [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy.
+
++ [Towards Automatic Image Editing: Learning to See another You](http://arxiv.org/abs/1511.08446) by Amir Ghodrati, Xu Jia, Marco Pedersoli, Tinne Tuytelaars.
 
 + [Towards Biologically Plausible Deep Learning](http://arxiv.org/abs/1502.04156) by Yoshua Bengio, Dong-Hyun Lee, Jorg Bornschein, Zhouhan Lin.
 
