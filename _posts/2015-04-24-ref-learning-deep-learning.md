@@ -417,6 +417,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Inverting Convolutional Networks with Convolutional Networks](http://arxiv.org/abs/1506.02753) by Alexey Dosovitskiy, Thomas Brox.
 
++ [Is L2 a Good Loss Function for Neural Networks for Image Processing?](http://arxiv.org/abs/1511.08861) by Hang Zhao, Orazio Gallo, Iuri Frosio, Jan Kautz.
+
 + [Joint Calibration for Semantic Segmentation](http://arxiv.org/abs/1507.01581) by Holger Caesar, Jasper Uijlings, Vittorio Ferrari.
 
 + [Large-scale Simple Question Answering with Memory Networks](http://arxiv.org/abs/1506.02075) by Antoine Bordes, Nicolas Usunier, Sumit Chopra, Jason Weston.
@@ -490,6 +492,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Net2Net: Accelerating Learning via Knowledge Transfer](http://arxiv.org/abs/1511.05641) by Tianqi Chen, Ian Goodfellow, Jonathon Shlens.
 
 + [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) by Łukasz Kaiser, Ilya Sutskever.
+
++ [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/abs/1511.09249) by Juergen Schmidhuber.
 
 + [On the Convergence of SGD Training of Neural Networks](http://arxiv.org/abs/1508.02790) by Thomas M. Breuel.
 
