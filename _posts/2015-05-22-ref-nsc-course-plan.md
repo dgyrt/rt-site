@@ -21,39 +21,57 @@ This page summarized all related information on my master program at [Institute 
 
 ### Course Plan
 
-#### Spring Semester
+#### Spring Semester (2016)
 
-|Code        |Title                                                 |Credit  |Location|Time|Taken?|
-|:-----------|:-----------------------------------------------------|:------:|--------|----|------|
-|INI-402     |Computational Vision                                  |6CP     |        |    |      |
-|INI-414     |Neurophysics                                          |6CP     |        |    |      |
-|227-0967-00L|Computational Neuroimaging Clinic                     |3CP     |        |    |      |
-|INI-427     |Models of Computation                                 |6CP     |        |    |      |
-|INI-428     |Theory, Programming, and Simulation of Neural Networks|6CP     |        |    |      |
-|INI-405     |Neuromorphic Engineering II                           |6CP     |        |    |      |
-|227-1044-00L|Auditory Informatics                                  |2CP     |        |    |      |
-|151-0626-00L|Neural Networks (Not Offered?)                        |6CP     |        |    |      |
-|252-3005-00L|Introduction to Natural Language Processing           |4CP     |        |    |      |
-|363-0588-00L|Complex Networks                                      |4CP     |        |    |      |
-|376-1719-00L|Statistics for Experimental Research                  |2CP     |        |    |      |
-|INI-702     |Journal Club (Core)                                   |2CP     |        |    |      |
-|INI-701     |Colloquium (Core)                                     |0CP     |        |    |      |
+|Code        |Title                                                 |Credit  |Location  |Time         |Taken? |
+|:-----------|:-----------------------------------------------------|:------:|----------|-------------|-------|
+|227-1034-00L|Computational Vision                                  |6CP     |Y35 F 32  |THU 1700-1900|A      |
+|227-1038-00L|Neurophysics                                          |6CP     |HCP E 47.2|MON 1300-1600|       |
+|227-0967-00L|Computational Neuroimaging Clinic                     |3CP     |          |             |       |
+|INI-427     |Models of Computation                                 |6CP     |ML F 39   |FRI 1400-1600|A      |
+|INI-428     |Theory, Programming, and Simulation of Neural Networks|6CP     |HIT J 53  |WED 0745-1100|       |
+|227-1044-00L|Auditory Informatics                                  |2CP     |I55 G 20  |WED 1500-1600|A      |
+|252-3005-00L|Introduction to Natural Language Processing           |4CP     |          |             |       |
+|363-0588-00L|Complex Networks                                      |4CP     |          |             |       |
+|376-1719-00L|Statistics for Experimental Research                  |2CP     |          |             |       |
+|227-1031-00L|Journal Club (Core)                                   |2CP     |I55 G 54  |WED 1300-1400|       |
+|227-1043-00L|Colloquium (Core)                                     |0CP     |I35 F 51  |FRI 1600-1700|A      |
+|227-1046-00L|Computer Simulations of Sensory Systems               |3CP     |ETZ G 91  |MON 1200-1600|A      |
+|252-5251-00L|Computational Science                                 |2CP     |CAB G 52  |TUE 1500-1700|A      |
+|227-1030-00L|Complex Systems: Computable Chaos in Dynamical Systems|6CP     |HIT J 53  |WED 1045-1400|A      |
 
 #### Fall Semester
 
-|Code        |Title                                                     |Credit  |Location|Time|Taken?|
-|:-----------|:---------------------------------------------------------|:------:|--------|----|------|
-|INI-401     |Introduction to Neuroinformatics                          |6CP     |        |    |      |
-|INI-415     |Introduction to Systems Neuroscience                      |6CP     |        |    |      |
-|227-0969-00L|Methods & Models for fMRI Data Analysis                   |3CP     |        |    |      |
-|INI-404     |Neuromorphic Engineering I                                |6CP     |        |    |      |
-|227-1044-00L|Auditory Informatics                                      |2CP     |        |    |      |
-|252-0535-00L|Machine Learning                                          |6CP     |        |    |      |
-|263-5210-00L|Probabilistic Artificial Intelligence                     |4CP     |        |    |      |
-|INI-502     |Basics of instrumentation, measurement and analysis (Core)|4CP     |        |    |      |
-|INI-431     |Readings in Neuroinformatics (Core)                       |3CP     |        |    |      |
-|INI-702     |Journal Club (Core)                                       |2CP     |        |    |      |
-|INI-701     |Colloquium (Core)                                         |0CP     |        |    |      |
+|Code        |Title                                                         |Credit  |Location|Time|Taken?|
+|:-----------|:-------------------------------------------------------------|:------:|--------|----|------|
+|INI-401     |Introduction to Neuroinformatics                              |6CP     |        |    |      |
+|INI-415     |Introduction to Systems Neuroscience                          |6CP     |        |    |      |
+|227-0969-00L|Methods & Models for fMRI Data Analysis                       |3CP     |        |    |      |
+|227-1044-00L|Auditory Informatics                                          |2CP     |        |    |      |
+|252-0535-00L|Machine Learning                                              |6CP     |        |    |      |
+|263-5210-00L|Probabilistic Artificial Intelligence                         |4CP     |        |    |      |
+|INI-502     |Basics of instrumentation, measurement and analysis (Core)    |4CP     |        |    |      |
+|INI-431     |Readings in Neuroinformatics (Core)                           |3CP     |        |    |      |
+|INI-702     |Journal Club (Core)                                           |2CP     |        |    |      |
+|INI-701     |Colloquium (Core)                                             |0CP     |        |    |      |
+|BIO-343     |Structure, Plasticity and Repair of the Nervous System (Extra)|3CP     |        |    |      |
+|BIO-344     |Development of the Nervous System (Extra) (Offered in German?)|3CP     |        |    |      |
+
+#### Resources
+
++ [(2016 Spring) Computational Vision](http://www.ini.unizh.ch/~kiper/comp_vis/index.html)
+
++ [(2016 Spring) Neurophysics ](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2016S&lang=en&ansicht=ALLE&lerneinheitId=105377)
+
++ [(2016 Spring) Models of Computation](http://co2.ini.uzh.ch/Courses/Models/info.php)
+
++ [(2016 Spring) Theory, Programming and Simulation of Neuronal Networks ](http://stoop.ini.uzh.ch/teaching/theory-programming-and-simulation-of-neural-networks)
+
++ [(2016 Spring) Auditory Informatics](http://stoop.ini.uzh.ch/teaching/seminar-on-auditory-informatics)
+
++ [(2016 Spring) Journal Club](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2016S&lang=en&ansicht=ALLE&lerneinheitId=104221)
+
++ [Basics of instrumentation, measurement and analysis (Core)](https://www.ini.uzh.ch/~ppyk/basicsofinstrumentation.html)
 
 ### Master Thesis
 
