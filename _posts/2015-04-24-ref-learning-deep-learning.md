@@ -123,6 +123,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Deep Bag-of-Features Model for Music Auto-Tagging](http://arxiv.org/abs/1508.04999) by Juhan Nam, Jorge Herrera, Kyogu Lee.
 
++ [A Deep Generative Deconvolutional Image Model](http://arxiv.org/abs/1512.07344) by Yunchen Pu, Xin Yuan, Andrew Stevens, Chunyuan Li, Lawrence Carin.
+
 + [A Deep Neural Network Compression Pipeline: Pruning, Quantization, Huffman Encoding](http://arxiv.org/abs/1510.00149) by Song Han, Huizi Mao, William J. Dally.
 
 + [A Deep Pyramid Deformable Part Model for Face Detection](http://arxiv.org/abs/1508.04389) by Rajeev Ranjan, Vishal M. Patel, Rama Chellappa.
@@ -135,11 +137,15 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Lightened CNN for Deep Face Representation](http://arxiv.org/abs/1511.02683) by Xiang Wu, Ran He, Zhenan Sun.
 
++ [A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction](http://arxiv.org/abs/1512.06293) by Thomas Wiatowski, Helmut Bölcskei.
+
 + [A Multi-scale Multiple Instance Video Description Network](http://arxiv.org/abs/1505.05914) by Huijuan Xu, Subhashini Venugopalan, Vasili Ramanishka, Marcus Rohrbach, Kate Saenko.
 
 + [A Neural Attention Model for Abstractive Sentence Summarization](http://arxiv.org/abs/1509.00685) by Alexander M. Rush, Sumit Chopra, Jason Weston.
 
 + [A Recurrent Latent Variable Model for Sequential Data](http://arxiv.org/abs/1506.02216) by Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio.
+
++ [A Restricted Visual Turing Test for Deep Scene and Event Understanding](http://arxiv.org/abs/1512.01715) by Hang Qi, Tianfu Wu, Mun-Wai Lee, Song-Chun Zhu.
 
 + [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820) by Ye Zhang, Byron Wallace.
 
@@ -162,6 +168,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Adding Gradient Noise Improves Learning for Very Deep Networks](http://arxiv.org/abs/1511.06807) by Arvind Neelakantan, Luke Vilnis, Quoc V. Le, Ilya Sutskever, Lukasz Kaiser, Karol Kurach, James Martens.
 
 + [Adversarial Autoencoders](http://arxiv.org/abs/1511.05644) by Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow.
+
++ [Adversarial Manipulation of Deep Representations](http://arxiv.org/abs/1511.05122) by Sara Sabour, Yanshuai Cao, Fartash Faghri, David J. Fleet.
 
 + [All you need is a good init](http://arxiv.org/abs/1511.06422) by Dmytro Mishkin, Jiri Matas.
 
@@ -213,6 +221,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Bottom-up and top-down reasoning with convolutional latent-variable models](http://arxiv.org/abs/1507.05699) by Peiyun Hu, Deva Ramanan.
 
++ [Brain4Cars: Car That Knows Before You Do via Sensory-Fusion Deep Learning Architecture](http://arxiv.org/abs/1601.00740) by Ashesh Jain, Hema S Koppula, Shane Soh, Bharad Raghavan, Avi Singh, Ashutosh Saxena.
+
 + [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626) by Xiang Zhang, Junbo Zhao, Yann LeCun.
 
 + [Compositional Memory for Visual Question Answering](http://arxiv.org/abs/1511.05676) by Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li.
@@ -220,6 +230,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Compressing Convolutional Neural Networks](http://arxiv.org/abs/1506.04449) by Wenlin Chen, James T. Wilson, Stephen Tyree, Kilian Q. Weinberger, Yixin Chen.
 
 + [Compressing LSTMs into CNNs](http://arxiv.org/abs/1511.06433) by Krzysztof J. Geras, Abdel-rahman Mohamed, Rich Caruana, Gregor Urban, Shengjie Wang, Ozlem Aslan, Matthai Philipose, Matthew Richardson, Charles Sutton.
+
++ [Compression of Deep Neural Networks on the Fly](http://arxiv.org/abs/1509.08745) by Guillaume Soulié, Vincent Gripon, Maëlys Robert.
 
 + [Confusing Deep Convolution Networks by Relabelling](http://arxiv.org/abs/1510.06925) by Leigh Robinson, Benjamin Graham.
 
@@ -257,6 +269,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection](http://arxiv.org/abs/1510.05484) by Xi Li, Liming Zhao, Lina Wei, MingHsuan Yang, Fei Wu, Yueting Zhuang, Haibin Ling, Jingdong Wang.
 
++ [Deep Attention Recurrent Q-Network](http://arxiv.org/abs/1512.01693) by Ivan Sorokin, Alexey Seleznev, Mikhail Pavlov, Aleksandr Fedorov, Anastasiia Ignateva.
+
 + [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](http://arxiv.org/abs/1412.6632) by Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille.
 
 + [Deep Compositional Question Answering with Neural Module Networks](http://arxiv.org/abs/1511.02799) by Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.
@@ -283,11 +297,15 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Learning Face Attributes in the Wild](http://arxiv.org/abs/1411.7766) by Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang.
 
++ [Deep Learning with S-shaped Rectified Linear Activation Units](http://arxiv.org/abs/1512.07030) by Xiaojie Jin, Chunyan Xu, Jiashi Feng, Yunchao Wei, Junjun Xiong, Shuicheng Yan.
+
 + [Deep Networks Resemble Human Feed-forward Vision in Invariant Object Recognition](http://arxiv.org/abs/1508.03929) by Saeed Reza Kheradpisheh, Masoud Ghodrati, Mohammad Ganjtabesh, Timothée Masquelier.
 
 + [Deep Networks with Internal Selective Attention through Feedback Connections](http://arxiv.org/abs/1407.3068) by Marijn Stollenga, Jonathan Masci, Faustino Gomez, Jürgen Schmidhuber.
 
 + [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527) by Matthew Hausknecht, Peter Stone.
+
++ [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385) by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun.
 
 + [Deeply-Recursive Convolutional Network for Image Super-Resolution.pdf](http://arxiv.org/abs/1511.04491) by Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee.
 
@@ -333,6 +351,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov.
 
++ [Empirical performance upper bounds for image and video captioning](http://arxiv.org/abs/1511.04590) by Li Yao, Nicolas Ballas, Kyunghyun Cho, John R. Smith, Yoshua Bengio.
+
 + [End-to-End Attention-based Large Vocabulary Speech Recognition](http://arxiv.org/abs/1508.04395) by Dzmitry Bahdanau, Jan Chorowski, Dmitriy Serdyuk, Philemon Brakel, Yoshua Bengio.
 
 + [End-to-end Learning of Action Detection from Frame Glimpses in Videos](http://arxiv.org/abs/1511.06984) by Serena Yeung, Olga Russakovsky, Greg Mori, Li Fei-Fei.
@@ -357,6 +377,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Feature-based Attention in Convolutional Neural Networks](http://arxiv.org/abs/1511.06408) by Grace W. Lindsay.
 
++ [Feed-Forward Networks with Attention Can Solve Some Long-Term Memory Problems](http://arxiv.org/abs/1512.08756) by Colin Raffel, Daniel P. W. Ellis.
+
 + [FireCaffe: near-linear acceleration of deep neural network training on compute clusters](http://arxiv.org/abs/1511.00175) by Forrest N. Iandola, Khalid Ashraf, Mattthew W. Moskewicz, Kurt Keutzer.
 
 + [First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks](http://arxiv.org/abs/1511.06425) by Quan Gan, Qipeng Guo, Zheng Zhang, Kyunghyun Cho.
@@ -374,6 +396,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202) by Hongyu Guo.
 
 + [Generative Image Modeling Using Spatial LSTMs](http://arxiv.org/abs/1506.03478) by Lucas Theis, Matthias Bethge.
+
++ [Generating News Headlines with Recurrent Neural Networks](http://arxiv.org/abs/1512.01712) by Konstantin Lopyrev.
 
 + [Geometry-aware Deep Transform](http://arxiv.org/abs/1509.05360) by Jiaji Huang, Qiang Qiu, Robert Calderbank, Guillermo Sapiro.
 
@@ -479,6 +503,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779) by Ardi Tampuu, Tambet Matiisen, Dorian Kodelja, Ilya Kuzovkin, Kristjan Korjus, Juhan Aru, Jaan Aru, Raul Vicente.
 
++ [Multi-Instance Visual-Semantic Embedding](http://arxiv.org/abs/1512.06963) by Zhou Ren, Hailin Jin, Zhe Lin, Chen Fang, Alan Yuille.
+
 + [Multi-view Machines](http://arxiv.org/abs/1506.01110) by Bokai Cao, Hucheng Zhou, Philip S. Yu.
 
 + [Multimodal Deep Learning for Robust RGB-D Object Recognition](http://arxiv.org/abs/1507.06821) by Andreas Eitel, Jost Tobias Springenberg, Luciano Spinello, Martin Riedmiller, Wolfram Burgard.
@@ -492,6 +518,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Net2Net: Accelerating Learning via Knowledge Transfer](http://arxiv.org/abs/1511.05641) by Tianqi Chen, Ian Goodfellow, Jonathon Shlens.
 
 + [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) by Łukasz Kaiser, Ilya Sutskever.
+
++ [Neural Random-Access Machines](http://arxiv.org/abs/1511.06392) by Karol Kurach, Marcin Andrychowicz, Ilya Sutskever.
 
 + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/abs/1511.09249) by Juergen Schmidhuber.
 
@@ -541,6 +569,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [ReSeg: A Recurrent Neural Network for Object Segmentation](http://arxiv.org/abs/1511.07053) by Francesco Visin, Kyle Kastner, Aaron Courville, Yoshua Bengio, Matteo Matteucci, Kyunghyun Cho.
 
++ [Reuse of Neural Modules for General Video Game Playing](http://arxiv.org/abs/1512.01537) by Alexander Braylan, Mark Hollenbeck, Elliot Meyerson, Risto Miikkulainen.
+
 + [Rich feature hierarchies for accurate object detection and semantic segmentation](http://arxiv.org/abs/1311.2524) by Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik.
 
 + [Scaling Up Natural Gradient by Sparsely Factorizing the Inverse Fisher Matrix](http://www.cs.toronto.edu/~rgrosse/icml2015-fang.pdf) by Roger B. Grosse, Ruslan Salakhutdinov.
@@ -567,7 +597,11 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044) by Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio.
 
++ [Simple Baseline for Visual Question Answering](http://arxiv.org/abs/1512.02167) by Bolei Zhou, Yuandong Tian, Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus.
+
 + [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726) by Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler.
+
++ [Sparsifying Neural Network Connections for Face Recognition](http://arxiv.org/abs/1512.01891) by Yi Sun, Xiaogang Wang, Xiaoou Tang.
 
 + [Spatial Semantic Regularisation for Large Scale Object Detection](http://arxiv.org/abs/1510.02949) by Damian Mrowca, Marcus Rohrbach, Judy Hoffman, Ronghang Hu, Kate Saenko, Trevor Darrell.
 
@@ -665,6 +699,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos](http://arxiv.org/abs/1505.05769) by Ishan Misra, Abhinav Shrivastava, Martial Hebert.
 
++ [We Are Humor Beings: Understanding and Predicting Visual Humor](http://arxiv.org/abs/1512.04407) by Arjun Chandrasekaran, Ashwin K Vijayakumar, Stanislaw Antol, Mohit Bansal, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh.
+
 + [Weakly-Supervised Alignment of Video With Text](http://arxiv.org/abs/1505.06027) by P. Bojanowski, R. Lagugie, Edouard Grave, Francis Bach, I. Laptev, J. Ponce, C. Schmid.
 
 + [Weakly Supervised Deep Detection Networks](http://arxiv.org/abs/1511.02853) by Hakan Bilen, Andrea Vedaldi.
@@ -674,6 +710,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [What is Holding Back Convnets for Detection?](http://arxiv.org/abs/1508.02844) by Bojan Pepik, Rodrigo Benenson, Tobias Ritschel, Bernt Schiele.
 
 + [What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment](http://arxiv.org/abs/1509.00838) by Hongyuan Mei, Mohit Bansal, Matthew R. Walter.
+
++ [What can we learn about CNNs from a large scale controlled object dataset?](http://arxiv.org/abs/1512.01320) by Ali Borji, Saeed Izadi, Laurent Itti.
 
 + [Where To Look: Focus Regions for Visual Question Answering](http://arxiv.org/abs/1511.07394) by Kevin J. Shih, Saurabh Singh, Derek Hoiem.
 
