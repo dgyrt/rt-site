@@ -299,6 +299,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Learning with S-shaped Rectified Linear Activation Units](http://arxiv.org/abs/1512.07030) by Xiaojie Jin, Chunyan Xu, Jiashi Feng, Yunchao Wei, Junjun Xiong, Shuicheng Yan.
 
++ [Deep multi-scale video prediction beyond mean square error](http://arxiv.org/abs/1511.05440) by Michael Mathieu, Camille Couprie, Yann LeCun.
+
 + [Deep Networks Resemble Human Feed-forward Vision in Invariant Object Recognition](http://arxiv.org/abs/1508.03929) by Saeed Reza Kheradpisheh, Masoud Ghodrati, Mohammad Ganjtabesh, Timothée Masquelier.
 
 + [Deep Networks with Internal Selective Attention through Feedback Connections](http://arxiv.org/abs/1407.3068) by Marijn Stollenga, Jonathan Masci, Faustino Gomez, Jürgen Schmidhuber.
@@ -340,6 +342,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Detecting Interrogative Utterances with Recurrent Neural Networks](http://arxiv.org/abs/1511.01042) by Junyoung Chung, Jacob Devlin, Hany Hassan Awadalla.
 
 + [Dictionary Learning and Sparse Coding for Third-order Super-symmetric Tensors](http://arxiv.org/abs/1509.02970) by Piotr Koniusz, Anoop Cherian.
+
++ [Digging Deep into the layers of CNNs: In Search of How CNNs Achieve View Invariance](http://arxiv.org/abs/1508.01983) by Amr Bakry, Mohamed Elhoseiny, Tarek El-Gaaly, Ahmed Elgammal.
 
 + [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](http://arxiv.org/abs/1406.6909) by Alexey Dosovitskiy, Philipp Fischer, Jost Tobias Springenberg, Martin Riedmiller, Thomas Brox.
 
@@ -463,6 +467,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Learning Spatiotemporal Features with 3D Convolutional Networks](http://arxiv.org/abs/1412.0767) by Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri.
 
++ [Learning to Compose Neural Networks for Question Answering](http://arxiv.org/abs/1601.01705) by Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.
+
 + [Learning to Linearize Under Uncertainty](http://arxiv.org/abs/1506.03011) by Ross Goroshin, Michael Mathieu, Yann LeCun.
 
 + [Learning to See by Moving](http://arxiv.org/abs/1505.01596) by Pulkit Agrawal, Joao Carreira, Jitendra Malik.
@@ -509,6 +515,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Multimodal Deep Learning for Robust RGB-D Object Recognition](http://arxiv.org/abs/1507.06821) by Andreas Eitel, Jost Tobias Springenberg, Luciano Spinello, Martin Riedmiller, Wolfram Burgard.
 
++ [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](http://arxiv.org/abs/1511.05176) by Shixiang Gu, Sergey Levine, Ilya Sutskever, Andriy Mnih.
+
 + [Named Entity Recognition with Bidirectional LSTM-CNNs](http://arxiv.org/abs/1511.08308) by Jason P.C. Chiu, Eric Nichols.
 
 + [Natural Neural Networks](http://arxiv.org/abs/1507.00210) by Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, Koray Kavukcuoglu.
@@ -526,6 +534,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [On the Convergence of SGD Training of Neural Networks](http://arxiv.org/abs/1508.02790) by Thomas M. Breuel.
 
 + [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009) by Nadav Cohen, Or Sharir, Amnon Shashua.
+
++ [Online Batch Selection for Faster Training of Neural Networks](http://arxiv.org/abs/1511.06343) by Ilya Loshchilov, Frank Hutter.
 
 + [Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation](http://arxiv.org/abs/1506.07452) by Marijn F. Stollenga, Wonmin Byeon, Marcus Liwicki, Juergen Schmidhuber.
 
@@ -621,11 +631,15 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Super-Resolution with Deep Convolutional Sufficient Statistics](http://arxiv.org/abs/1511.05666) by Joan Bruna, Pablo Sprechmann, Yann LeCun.
 
++ [Superpixel Convolutional Networks using Bilateral Inceptions](http://arxiv.org/abs/1511.06739) by Raghudeep Gadde, Varun Jampani, Martin Kiefel, Peter V. Gehler.
+
 + [Structured Depth Prediction in Challenging Monocular Video Sequences](http://arxiv.org/abs/1511.06070) by Miaomiao Liu, Mathieu Salzmann, Xuming He.
 
 + [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931) by Wei Zhang, Yang Yu.
 
 + [Symmetry-invariant optimization in deep networks](http://arxiv.org/abs/1511.01754) by Vijay Badrinarayanan, Bamdev Mishra, Roberto Cipolla.
+
++ [Task Loss Estimation for Sequence Prediction](http://arxiv.org/abs/1511.06456) by Dzmitry Bahdanau, Dmitriy Serdyuk, Philémon Brakel, Nan Rosemary Ke, Jan Chorowski, Aaron Courville, Yoshua Bengio.
 
 + [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340) by Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom.
 
