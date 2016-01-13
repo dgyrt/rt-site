@@ -305,6 +305,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Networks with Internal Selective Attention through Feedback Connections](http://arxiv.org/abs/1407.3068) by Marijn Stollenga, Jonathan Masci, Faustino Gomez, Jürgen Schmidhuber.
 
++ [Deep Neural Networks predict Hierarchical Spatio-temporal Cortical Dynamics of Human Visual Object Recognition](http://arxiv.org/abs/1601.02970) by Radoslaw M. Cichy, Aditya Khosla, Dimitrios Pantazis, Antonio Torralba, Aude Oliva.
+
 + [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527) by Matthew Hausknecht, Peter Stone.
 
 + [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385) by Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun.
