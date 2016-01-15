@@ -711,6 +711,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Visualizing and Understanding Recurrent Networks](http://arxiv.org/abs/1506.02078) by Andrej Karpathy, Justin Johnson, Fei-Fei Li.
 
++ [Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images](http://arxiv.org/abs/1512.02017) by Aravindh Mahendran, Andrea Vedaldi.
+
 + [Visual7W: Grounded Question Answering in Images](http://arxiv.org/abs/1511.03416) by Yuke Zhu, Oliver Groth, Michael Bernstein, Li Fei-Fei.
 
 + [Watch and Learn: Semi-Supervised Learning of Object Detectors from Videos](http://arxiv.org/abs/1505.05769) by Ishan Misra, Abhinav Shrivastava, Martial Hebert.
