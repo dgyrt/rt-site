@@ -223,6 +223,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Brain4Cars: Car That Knows Before You Do via Sensory-Fusion Deep Learning Architecture](http://arxiv.org/abs/1601.00740) by Ashesh Jain, Hema S Koppula, Shane Soh, Bharad Raghavan, Avi Singh, Ashutosh Saxena.
 
++ [Brain-Inspired Deep Networks for Image Aesthetics Assessment](http://arxiv.org/abs/1601.04155) by Zhangyang Wang, Florin Dolcos, Diane Beck, Shiyu Chang, Thomas S. Huang.
+
 + [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626) by Xiang Zhang, Junbo Zhao, Yann LeCun.
 
 + [Compositional Memory for Visual Question Answering](http://arxiv.org/abs/1511.05676) by Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li.
@@ -630,6 +632,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Stochastic Gradient Made Stable: A Manifold Propagation Approach for Large-Scale Optimization](http://arxiv.org/abs/1506.08350) by Yadong Mu, Wei Liu, Wei Fan.
 
 + [StochasticNet: Forming Deep Neural Networks via Stochastic Connectivity](http://arxiv.org/abs/1508.05463) by Mohammad Javad Shafiee, Parthipan Siva, Alexander Wong.
+
++ [Studying Very Low Resolution Recognition Using Deep Networks](http://arxiv.org/abs/1601.04153) by Zhangyang Wang, Shiyu Chang, Yingzhen Yang, Ding Liu, Thomas S. Huang.
 
 + [Super-Resolution with Deep Convolutional Sufficient Statistics](http://arxiv.org/abs/1511.05666) by Joan Bruna, Pablo Sprechmann, Yann LeCun.
 
