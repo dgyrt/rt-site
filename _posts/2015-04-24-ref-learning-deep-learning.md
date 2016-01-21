@@ -331,6 +331,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deeply Improved Sparse Coding for Image Super-Resolution](http://arxiv.org/abs/1507.08905) by Zhaowen Wang, Ding Liu, Jianchao Yang, Wei Han, Thomas Huang.
 
++ [DeePM: A Deep Part-Based Model for Object Detection and Semantic Part Localization](http://arxiv.org/abs/1511.07131) by Jun Zhu, Xianjie Chen, Alan L. Yuille.
+
 + [Delving Deeper into Convolutional Networks for Learning Video Representations](http://arxiv.org/abs/1511.06432) by Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville.
 
 + [Denoising Criterion for Variational Auto-Encoding Framework](http://arxiv.org/abs/1511.06406) by Daniel Jiwoong Im, Sungjin Ahn, Roland Memisevic, Yoshua Bengio.
@@ -372,6 +374,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321) by Wojciech Samek, Alexander Binder, Grégoire Montavon, Sebastian Bach, Klaus-Robert Müller.
 
 + [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832) by Florian Schroff, Dmitry Kalenichenko, James Philbin.
+
++ [Factors in Finetuning Deep Model for object detection](http://arxiv.org/abs/1601.05150) by Wanli Ouyang, Xiaogang Wang, Cong Zhang, Xiaokang Yang.
 
 + [Fast Algorithms for Convolutional Neural Networks](http://arxiv.org/abs/1509.09308) by Andrew Lavin.
 
