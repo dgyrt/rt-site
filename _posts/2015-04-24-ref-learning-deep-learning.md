@@ -503,6 +503,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks](http://arxiv.org/abs/1511.02462) by Steven C.H. Hoi, Xiongwei Wu, Hantang Liu, Yue Wu, Huiqiong Wang, Hui Xue, Qiang Wu.
 
++ [Long Short-Term Memory-Networks for Machine Reading](http://arxiv.org/abs/1601.06733) by Jianpeng Cheng, Li Dong, Mirella Lapata.
+
 + [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://jeffdonahue.com/lrcn/) by Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell.
 
 + [Love Thy Neighbors: Image Annotation by Exploiting Image Metadata](http://arxiv.org/abs/1508.07647) by Justin Johnson, Lamberto Ballan, Fei-Fei Li.
@@ -550,6 +552,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Path-SGD: Path-Normalized Optimization in Deep Neural Networks](http://arxiv.org/abs/1506.02617) by Behnam Neyshabur, Ruslan Salakhutdinov, Nathan Srebro.
 
 + [Person Recognition in Personal Photo Collections](http://arxiv.org/abs/1509.03502) by Seong Joon Oh, Rodrigo Benenson, Mario Fritz, Bernt Schiele.
+
++ [Pixel Recurrent Neural Networks](http://arxiv.org/abs/1601.06759) by Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu.
 
 + [Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in Poker Games](http://arxiv.org/abs/1509.06731) by Nikolai Yakovenko, Liangliang Cao, Colin Raffel, James Fan.
 
