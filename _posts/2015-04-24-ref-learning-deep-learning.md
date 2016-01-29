@@ -453,6 +453,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Inverting Convolutional Networks with Convolutional Networks](http://arxiv.org/abs/1506.02753) by Alexey Dosovitskiy, Thomas Brox.
 
++ [Is Image Super-resolution Helpful for Other Vision Tasks?](http://arxiv.org/abs/1509.07009) by Dengxin Dai, Yujian Wang, Yuhua Chen, Luc Van Gool.
+
 + [Is L2 a Good Loss Function for Neural Networks for Image Processing?](http://arxiv.org/abs/1511.08861) by Hang Zhao, Orazio Gallo, Iuri Frosio, Jan Kautz.
 
 + [Joint Calibration for Semantic Segmentation](http://arxiv.org/abs/1507.01581) by Holger Caesar, Jasper Uijlings, Vittorio Ferrari.
@@ -498,6 +500,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089) by Hongyuan Mei, Mohit Bansal, Matthew R. Walter.
 
 + [LLNet: A Deep Autoencoder Approach to Natural Low-light Image Enhancement](http://arxiv.org/abs/1511.03995) by Kin Gwn Lore, Adedotun Akintayo, Soumik Sarkar.
+
++ [Locally-Supervised Deep Hybrid Model for Scene Recognition](http://arxiv.org/abs/1601.07576) by Sheng Guo, Weilin Huang, Yu Qiao.
 
 + [LocNet: Improving Localization Accuracy for Object Detection](http://arxiv.org/abs/1511.07763) by Spyros Gidaris, Nikos Komodakis.
 
