@@ -249,6 +249,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](http://arxiv.org/abs/1506.04214) by Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-Kin Wong, Wang-chun Woo.
 
++ [Convolutional Pose Machines](http://arxiv.org/abs/1602.00134) by Shih-En Wei, Varun Ramakrishna, Takeo Kanade, Yaser Sheikh.
+
 + [DAG-Recurrent Neural Networks For Scene Labeling](http://arxiv.org/abs/1509.00552) by Bing Shuai, Zhen Zuo, Gang Wang, Bing Wang.
 
 + [Data-dependent Initializations of Convolutional Neural Networks](http://arxiv.org/abs/1511.06856) by Philipp Krähenbühl, Carl Doersch, Jeff Donahue, Trevor Darrell.
@@ -494,6 +496,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Learning Visual Features from Large Weakly Supervised Data](http://arxiv.org/abs/1511.02251) by Armand Joulin, Laurens van der Maaten, Allan Jabri, Nicolas Vasilache.
 
 + [Leveraging Context to Support Automated Food Recognition in Restaurants](http://arxiv.org/abs/1510.02078) by Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory Abowd, Irfan Essa.
+
++ [Lipreading with Long Short-Term Memory](http://arxiv.org/abs/1601.08188) by Michael Wand, Jan Koutník, Jürgen Schmidhuber.
 
 + [Listen, Attend and Spell](http://arxiv.org/abs/1508.01211) by William Chan, Navdeep Jaitly, Quoc V. Le, Oriol Vinyals.
 
