@@ -479,6 +479,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Learning Multiple Tasks with Deep Relationship Networks](http://arxiv.org/abs/1506.02117) by Mingsheng Long, Jianmin Wang.
 
++ [Learning scale-variant and scale-invariant features for deep image classification](http://arxiv.org/abs/1602.01255) by Nanne van Noord, Eric Postma.
+
 + [Learning Spatiotemporal Features with 3D Convolutional Networks](http://arxiv.org/abs/1412.0767) by Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri.
 
 + [Learning to Compose Neural Networks for Question Answering](http://arxiv.org/abs/1601.01705) by Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.
