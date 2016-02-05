@@ -365,6 +365,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov.
 
++ [EIE: Efficient Inference Engine on Compressed Deep Neural Network](http://arxiv.org/abs/1602.01528) by Song Han, Xingyu Liu, Huizi Mao, Jing Pu, Ardavan Pedram, Mark A. Horowitz, William J. Dally.
+
 + [Empirical performance upper bounds for image and video captioning](http://arxiv.org/abs/1511.04590) by Li Yao, Nicolas Ballas, Kyunghyun Cho, John R. Smith, Yoshua Bengio.
 
 + [End-to-End Attention-based Large Vocabulary Speech Recognition](http://arxiv.org/abs/1508.04395) by Dzmitry Bahdanau, Jan Chorowski, Dmitriy Serdyuk, Philemon Brakel, Yoshua Bengio.
