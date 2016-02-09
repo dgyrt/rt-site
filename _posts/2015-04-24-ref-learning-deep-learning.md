@@ -379,6 +379,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321) by Wojciech Samek, Alexander Binder, Grégoire Montavon, Sebastian Bach, Klaus-Robert Müller.
 
++ [Exploring the Limits of Language Modeling](http://arxiv.org/abs/1602.02410) by Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, Yonghui Wu.
+
 + [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://arxiv.org/abs/1503.03832) by Florian Schroff, Dmitry Kalenichenko, James Philbin.
 
 + [Factors in Finetuning Deep Model for object detection](http://arxiv.org/abs/1601.05150) by Wanli Ouyang, Xiaogang Wang, Cong Zhang, Xiaokang Yang.
