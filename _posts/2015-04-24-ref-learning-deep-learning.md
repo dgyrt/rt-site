@@ -217,6 +217,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Beyond Temporal Pooling: Recurrence and Temporal Convolutions for Gesture Recognition in Video](http://arxiv.org/abs/1506.01911) by Lionel Pigou, Aäron van den Oord, Sander Dieleman, Mieke Van Herreweghe, Joni Dambre.
 
++ [Binarized Neural Networks](http://arxiv.org/abs/1602.02505) by Itay Hubara, Daniel Soudry, Ran El Yaniv.
+
 + [Binding via Reconstruction Clustering](http://arxiv.org/abs/1511.06418) by Klaus Greff, Rupesh Kumar Srivastava, Jürgen Schmidhuber.
 
 + [Bottom-up and top-down reasoning with convolutional latent-variable models](http://arxiv.org/abs/1507.05699) by Peiyun Hu, Deva Ramanan.
@@ -486,6 +488,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Learning scale-variant and scale-invariant features for deep image classification](http://arxiv.org/abs/1602.01255) by Nanne van Noord, Eric Postma.
 
 + [Learning Spatiotemporal Features with 3D Convolutional Networks](http://arxiv.org/abs/1412.0767) by Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri.
+
++ [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672) by Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson.
 
 + [Learning to Compose Neural Networks for Question Answering](http://arxiv.org/abs/1601.01705) by Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.
 
