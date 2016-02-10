@@ -28,7 +28,6 @@ Under the assumption that there is no move of time.
 |Code        |Title                                                 |Credit  |Location  |Time         |Remarks|
 |:-----------|:-----------------------------------------------------|:------:|----------|-------------|-------|
 |227-1031-00L|Journal Club (Core)                                   |2CP     |Y55 G 54  |WED 1300-1400|       |
-|227-1043-00L|Colloquium (Core)                                     |0CP     |Y35 F 51  |FRI 1600-1700|       |
 |227-1044-00L|Auditory Informatics                                  |2CP     |I55 G 20  |WED 1500-1600|       |
 |227-1034-00L|Computational Vision (Elective Core)                  |6CP     |Y35 F 32  |THU 1700-1900|       |
 |INI-427     |Models of Computation (Elective Core)                 |6CP     |ML F 39   |FRI 1400-1600|       |
@@ -45,8 +44,9 @@ In total: 19 CPs
 |INI-401     |Introduction to Neuroinformatics (Elective Core)                  |6CP     |Y35 F 32  |WED 1000-1300|       |
 |BIO-343     |Structure, Plasticity and Repair of the Nervous System (Extra)    |3CP     |Y15 G 40  |MON 1015-1200|       |
 |BIO-344     |Development of the Nervous System (Extra)                         |3CP     |Y15 G 40  |MON 0800-0945|       |
-|227-1047-00L|Consciousness: From Philosophy to Neuroscience                    |3CP     |Y35 F 32  |THU 1700-1900|       |
+|INI-410     |Consciousness: From Philosophy to Neuroscience                    |3CP     |Y35 F 32  |THU 1700-1900|       |
 |151-0623-00L|ETH Zurich Distinguished Seminar in Robotics, Systems and Controls|1CP     |HG G 3    |FRI 1500-1700|Bi-week|
+|INI701      |Colloquium (Core)                                                 |0CP     |Y35 F 51  |FRI 1600-1700|       |
 
 In total: 23 CPs
 
@@ -55,7 +55,7 @@ In total: 23 CPs
 |Code        |Title                                                         |Credit  |Location  |Time         |Remarks|
 |:-----------|:-------------------------------------------------------------|:------:|----------|-------------|-------|
 |252-5251-00L|Computational Science                                         |2CP     |CAB G 52  |TUE 1500-1700|       |
-|227-1030-00L|Complex Systems: Computable Chaos in Dynamical Systems        |6CP     |HIT J 53  |WED 1045-1400|       |
+|INI-412     |Complex Systems: Computable Chaos in Dynamical Systems        |6CP     |HIT J 53  |WED 1045-1400|       |
 |376-1414-00L|Current Topics in Brain Research                              |1CP     |I35 F 32  |MON 1200-1400|       |
 
 In total: 9 CPs
