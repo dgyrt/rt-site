@@ -121,6 +121,8 @@ _Deep Learning is a fast-moving community. Therefore the line between "Recent Ad
 
 _Most of papers here are produced in 2014 and after. Survey papers or review papers are not included._
 
++ [A Convolutional Attention Network for Extreme Summarization of Source Code](http://arxiv.org/abs/1602.03001) by Miltiadis Allamanis, Hao Peng, Charles Sutton.
+
 + [A Deep Bag-of-Features Model for Music Auto-Tagging](http://arxiv.org/abs/1508.04999) by Juhan Nam, Jorge Herrera, Kyogu Lee.
 
 + [A Deep Generative Deconvolutional Image Model](http://arxiv.org/abs/1512.07344) by Yunchen Pu, Xin Yuan, Andrew Stevens, Chunyuan Li, Lawrence Carin.
@@ -191,6 +193,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Ask Your Neurons: A Neural-based Approach to Answering Questions about Images](http://arxiv.org/abs/1505.01121) by Mateusz Malinowski, Marcus Rohrbach, Mario Fritz.
 
++ [Associative Long Short-Term Memory](http://arxiv.org/abs/1602.03032) by Ivo Danihelka, Greg Wayne, Benigno Uria, Nal Kalchbrenner, Alex Graves.
+
 + [AttentionNet: Aggregating Weak Directions for Accurate Object Detection](http://arxiv.org/abs/1506.07704) by Donggeun Yoo, Sunggyun Park, Joon-Young Lee, Anthony Paek, In So Kweon.
 
 + [Attention-Based Models for Speech Recognition](http://arxiv.org/abs/1506.07503) by Jan Chorowski, Dzmitry Bahdanau, Dmitriy Serdyuk, Kyunghyun Cho, Yoshua Bengio.
@@ -218,6 +222,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Beyond Temporal Pooling: Recurrence and Temporal Convolutions for Gesture Recognition in Video](http://arxiv.org/abs/1506.01911) by Lionel Pigou, Aäron van den Oord, Sander Dieleman, Mieke Van Herreweghe, Joni Dambre.
 
 + [Binarized Neural Networks](http://arxiv.org/abs/1602.02505) by Itay Hubara, Daniel Soudry, Ran El Yaniv.
+
++ [BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](http://arxiv.org/abs/1602.02830) by Matthieu Courbariaux, Yoshua Bengio.
 
 + [Binding via Reconstruction Clustering](http://arxiv.org/abs/1511.06418) by Klaus Greff, Rupesh Kumar Srivastava, Jürgen Schmidhuber.
 
