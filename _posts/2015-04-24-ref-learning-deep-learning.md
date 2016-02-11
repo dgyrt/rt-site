@@ -547,6 +547,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Multi-Instance Visual-Semantic Embedding](http://arxiv.org/abs/1512.06963) by Zhou Ren, Hailin Jin, Zhe Lin, Chen Fang, Alan Yuille.
 
++ [Multi-task Sequence to Sequence Learning](http://arxiv.org/abs/1511.06114) by Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser.
+
 + [Multi-view Machines](http://arxiv.org/abs/1506.01110) by Bokai Cao, Hucheng Zhou, Philip S. Yu.
 
 + [Multimodal Deep Learning for Robust RGB-D Object Recognition](http://arxiv.org/abs/1507.06821) by Andreas Eitel, Jost Tobias Springenberg, Luciano Spinello, Martin Riedmiller, Wolfram Burgard.
