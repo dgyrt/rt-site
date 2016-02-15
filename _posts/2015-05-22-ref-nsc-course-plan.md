@@ -32,6 +32,7 @@ Under the assumption that there is no move of time.
 |INI-402     |Computational Vision (Elective Core)                  |6CP     |Y35 F 32  |THU 1700-1900              |       |
 |INI-427     |Models of Computation (Elective Core)                 |6CP     |ML F 39   |FRI 1400-1600 TUE 1500-1600|       |
 |INI-417     |Computer Simulations of Sensory Systems               |3CP     |ETZ G 91  |MON 1200-1400 MON 1400-1600|Bi-week|
+|INI701      |Colloquium (Core)                                     |0CP     |Y35 F 51  |FRI 1600-1700              |       |
 
 In total: 19 CPs
 
@@ -46,7 +47,6 @@ In total: 19 CPs
 |BIO-344     |Development of the Nervous System (Extra)                         |3CP     |Y15 G 40  |MON 0800-0945|       |
 |INI-410     |Consciousness: From Philosophy to Neuroscience                    |3CP     |Y35 F 32  |THU 1700-1900|       |
 |151-0623-00L|ETH Zurich Distinguished Seminar in Robotics, Systems and Controls|1CP     |HG G 3    |FRI 1500-1700|Bi-week|
-|INI701      |Colloquium (Core)                                                 |0CP     |Y35 F 51  |FRI 1600-1700|       |
 
 In total: 23 CPs
 
