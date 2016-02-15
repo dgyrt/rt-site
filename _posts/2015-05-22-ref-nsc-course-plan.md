@@ -28,11 +28,11 @@ Under the assumption that there is no move of time.
 |Code        |Title                                                 |Credit  |Location  |Time                       |Remarks|
 |:-----------|:-----------------------------------------------------|:------:|----------|---------------------------|-------|
 |INI-702     |Journal Club (Core)                                   |2CP     |Y55 G 54  |WED 1300-1400              |       |
-|INI-413     |Auditory Informatics                                  |2CP     |I55 G 20  |WED 1500-1600              |       |
+|INI-413     |Auditory Informatics                                  |2CP     |Y55 G 20  |WED 1500-1600              |       |
 |INI-402     |Computational Vision (Elective Core)                  |6CP     |Y35 F 32  |THU 1700-1900              |       |
 |INI-427     |Models of Computation (Elective Core)                 |6CP     |ML F 39   |FRI 1400-1600 TUE 1500-1600|       |
 |INI-417     |Computer Simulations of Sensory Systems               |3CP     |ETZ G 91  |MON 1200-1400 MON 1400-1600|Bi-week|
-|INI701      |Colloquium (Core)                                     |0CP     |Y35 F 51  |FRI 1600-1700              |       |
+|INI701      |Colloquium (Core)                                     |0CP     |Y35 F 32  |FRI 1600-1700              |       |
 
 In total: 19 CPs
 
@@ -56,7 +56,7 @@ In total: 23 CPs
 |:-----------|:-------------------------------------------------------------|:------:|----------|-------------|-------|
 |252-5251-00L|Computational Science                                         |2CP     |CAB G 52  |TUE 1500-1700|       |
 |INI-412     |Complex Systems: Computable Chaos in Dynamical Systems        |6CP     |HIT J 53  |WED 1045-1400|       |
-|376-1414-00L|Current Topics in Brain Research                              |1CP     |I35 F 32  |MON 1200-1400|       |
+|376-1414-00L|Current Topics in Brain Research                              |1CP     |Y35 F 32  |MON 1200-1400|       |
 
 In total: 9 CPs
 
