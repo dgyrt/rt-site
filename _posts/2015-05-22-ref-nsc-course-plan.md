@@ -36,7 +36,7 @@ Under the assumption that there is no move of time.
 |INI-505     |NSC Master Short Project I                            |8CP     |          |                           |       |
 |INI-506     |NSC Master Short Project II                           |8CP     |          |                           |       |
 
-In total: 19 CPs
+In total: 19 CPs + 16 CPs (short projects) = 35 CPs
 
 #### Fall Semester 2016
 
@@ -61,7 +61,7 @@ In total: 23 CPs
 |376-1414-00L|Current Topics in Brain Research                              |1CP     |Y35 F 32  |MON 1200-1400|       |
 |INI-504     |NSC Master Thesis (short) and Exam                            |29CP    |          |             |       |
 
-In total: 9 CPs
+In total: 9 CPs + 29CPs (thesis) = 38CPs
 
 #### Resources
 
