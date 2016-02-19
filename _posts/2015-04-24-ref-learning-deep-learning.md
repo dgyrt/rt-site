@@ -583,6 +583,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Pixel Recurrent Neural Networks](http://arxiv.org/abs/1601.06759) by Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu.
 
++ [PlaNet - Photo Geolocation with Convolutional Neural Networks](http://arxiv.org/abs/1602.05314) by Tobias Weyand, Ilya Kostrikov, James Philbin.
+
 + [Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in Poker Games](http://arxiv.org/abs/1509.06731) by Nikolai Yakovenko, Liangliang Cao, Colin Raffel, James Fan.
 
 + [Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions](http://arxiv.org/abs/1506.00511) by Jimmy Ba, Kevin Swersky, Sanja Fidler, Ruslan Salakhutdinov.
