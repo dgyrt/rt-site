@@ -815,6 +815,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [SVHN](http://ufldl.stanford.edu/housenumbers/) by Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng.
 
++ [Visual Perception of Forest Trails](http://people.idsia.ch/~giusti/forest/web/) by IDSIA, USI/SUPSI and Robotics and Perception Group, UZH.
+
 + [WWW Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/WWWCrowdDataset.html) by Jing Shao, Kai Kang, Chen Change Loy, and Xiaogang Wang.
 
 ### Podcast, Talks, etc.
