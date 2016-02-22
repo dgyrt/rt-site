@@ -36,3 +36,9 @@ sudo sed -i -e 's/#GRUB_TERMINAL/GRUB_TERMINAL/g' /etc/default/grub
 sudo update-grub
 sudo reboot
 ~~~
+
+### Generate GIF with ImageMagick
+
+~~~
+convert -delay 20 -loop 0 *jpg animated.gif
+~~~
