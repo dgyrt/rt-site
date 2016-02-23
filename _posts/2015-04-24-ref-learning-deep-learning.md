@@ -365,6 +365,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](http://arxiv.org/abs/1406.6909) by Alexey Dosovitskiy, Philipp Fischer, Jost Tobias Springenberg, Martin Riedmiller, Thomas Brox.
 
++ [Distributed Deep Learning Using Synchronous Stochastic Gradient Descent](http://arxiv.org/abs/1602.06709) by Dipankar Das, Sasikanth Avancha, Dheevatsa Mudigere, Karthikeyan Vaidynathan, Srinivas Sridharan, Dhiraj Kalamkar, Bharat Kaul, Pradeep Dubey.
+
 + [Distributed Deep Q-Learning](http://arxiv.org/abs/1508.04186) by Hao Yi Ong, Kevin Chavez, Augustus Hong.
 
 + [Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?](http://arxiv.org/abs/1510.02969) by Pooya Khorrami, Tom Le Paine, Thomas S. Huang.
@@ -574,6 +576,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009) by Nadav Cohen, Or Sharir, Amnon Shashua.
 
 + [Online Batch Selection for Faster Training of Neural Networks](http://arxiv.org/abs/1511.06343) by Ilya Loshchilov, Frank Hutter.
+
++ [Orthogonal RNNs and Long-Memory Tasks](http://arxiv.org/abs/1602.06662) by Mikael Henaff, Arthur Szlam, Yann LeCun.
 
 + [Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation](http://arxiv.org/abs/1506.07452) by Marijn F. Stollenga, Wonmin Byeon, Marcus Liwicki, Juergen Schmidhuber.
 
