@@ -467,6 +467,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519) by Yuri Burda, Roger Grosse, Ruslan Salakhutdinov.
 
++ [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](http://arxiv.org/abs/1602.07261) by Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke.
+
 + [Indexing of CNN Features for Large Scale Image Search](http://arxiv.org/abs/1508.00217) by Ruoyu Liu, Yao Zhao, Shikui Wei, Zhenfeng Zhu, Lixin Liao, Shuang Qiu.
 
 + [Inverting Convolutional Networks with Convolutional Networks](http://arxiv.org/abs/1506.02753) by Alexey Dosovitskiy, Thomas Brox.
