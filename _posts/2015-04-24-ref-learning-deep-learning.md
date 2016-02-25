@@ -651,6 +651,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [SentiCap: Generating Image Descriptions with Sentiments](http://arxiv.org/abs/1510.01431) by Alexander Mathews, Lexing Xie, Xuming He.
 
++ [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size](http://arxiv.org/abs/1602.07360) by Forrest N. Iandola, Matthew W. Moskewicz, Khalid Ashraf, Song Han, William J. Dally, Kurt Keutzer.
+
 + [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/abs/1411.4555) by Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan
 
 + [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044) by Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio.
