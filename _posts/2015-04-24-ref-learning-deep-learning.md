@@ -337,6 +337,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Speech: Scaling up end-to-end speech recognition](http://arxiv.org/abs/1412.5567) by Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, Andrew Y. Ng.
 
++ [Deep Spiking Networks](http://arxiv.org/abs/1602.08323) by Peter O'Connor, Max Welling.
+
 + [Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks](http://arxiv.org/abs/1602.00991) by Peter Ondruska, Ingmar Posner.
 
 + [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/deepimagesent/) by Andrej Karpathy, Fei-Fei Li.
