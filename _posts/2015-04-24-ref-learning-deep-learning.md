@@ -611,6 +611,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Random Maxout Features](http://arxiv.org/abs/1506.03705) by Youssef Mroueh, Steven Rennie, Vaibhava Goel.
 
++ [Recurrent Batch Normalization](http://arxiv.org/abs/1603.09025) by Tim Cooijmans, Nicolas Ballas, César Laurent, Aaron Courville
+
 + [Recurrent Instance Segmentation](http://arxiv.org/abs/1511.08250) by Bernardino Romera-Paredes, Philip H. S. Torr.
 
 + [Recurrent Models of Visual Attention](http://arxiv.org/abs/1406.6247) by Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu.
