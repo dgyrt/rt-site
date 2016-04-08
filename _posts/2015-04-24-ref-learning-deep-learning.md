@@ -383,6 +383,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [End-to-End Attention-based Large Vocabulary Speech Recognition](http://arxiv.org/abs/1508.04395) by Dzmitry Bahdanau, Jan Chorowski, Dmitriy Serdyuk, Philemon Brakel, Yoshua Bengio.
 
++ [End-to-End Deep Learning for Person Search](https://arxiv.org/abs/1604.01850) by Tong Xiao, Shuang Li, Bochao Wang, Liang Lin, Xiaogang Wang.
+
 + [End-to-end Learning of Action Detection from Frame Glimpses in Videos](http://arxiv.org/abs/1511.06984) by Serena Yeung, Olga Russakovsky, Greg Mori, Li Fei-Fei.
 
 + [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895) by Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus.
@@ -510,6 +512,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Learning to See by Moving](http://arxiv.org/abs/1505.01596) by Pulkit Agrawal, Joao Carreira, Jitendra Malik.
 
 + [Learning to Segment Object Candidates](http://arxiv.org/abs/1506.06204) by Pedro O. Pinheiro, Ronan Collobert, Piotr Dollar.
+
++ [Learning to Track at 100 FPS with Deep Regression Networks](https://arxiv.org/abs/1604.01802) by David Held, Sebastian Thrun, Silvio Savarese.
 
 + [Learning to track for spatio-temporal action localization](http://arxiv.org/abs/1506.01929) by Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid.
 
