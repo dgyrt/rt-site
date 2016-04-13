@@ -615,6 +615,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Random Maxout Features](http://arxiv.org/abs/1506.03705) by Youssef Mroueh, Steven Rennie, Vaibhava Goel.
 
++ [Recurrent Attentional Networks for Saliency Detection](https://arxiv.org/abs/1604.03227) by Jason Kuen, Zhenhua Wang, Gang Wang.
+
 + [Recurrent Batch Normalization](http://arxiv.org/abs/1603.09025) by Tim Cooijmans, Nicolas Ballas, César Laurent, Aaron Courville
 
 + [Recurrent Instance Segmentation](http://arxiv.org/abs/1511.08250) by Bernardino Romera-Paredes, Philip H. S. Torr.
@@ -700,6 +702,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Symmetry-invariant optimization in deep networks](http://arxiv.org/abs/1511.01754) by Vijay Badrinarayanan, Bamdev Mishra, Roberto Cipolla.
 
 + [Task Loss Estimation for Sequence Prediction](http://arxiv.org/abs/1511.06456) by Dzmitry Bahdanau, Dmitriy Serdyuk, Philémon Brakel, Nan Rosemary Ke, Jan Chorowski, Aaron Courville, Yoshua Bengio.
+
++ [T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos](https://arxiv.org/abs/1604.02532) by Kai Kang, Hongsheng Li, Junjie Yan, Xingyu Zeng, Bin Yang, Tong Xiao, Cong Zhang, Zhe Wang, Ruohui Wang, Xiaogang Wang, Wanli Ouyang.
 
 + [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340) by Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom.
 
@@ -830,6 +834,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [STL-10](http://cs.stanford.edu/~acoates/stl10/) by Adam Coates, Honglak Lee, Andrew Y. Ng.
 
 + [SVHN](http://ufldl.stanford.edu/housenumbers/) by Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng.
+
++ [TGIF](https://github.com/raingo/TGIF-Release) by Yuncheng Li, Yale Song, Liangliang Cao, Joel Tetreault, Larry Goldberg, Alejandro Jaimes, Jiebo Luo.
 
 + [Visual Perception of Forest Trails](http://people.idsia.ch/~giusti/forest/web/) by IDSIA, USI/SUPSI and Robotics and Perception Group, UZH.
 
