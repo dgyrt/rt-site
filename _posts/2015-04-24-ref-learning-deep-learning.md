@@ -603,6 +603,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](http://arxiv.org/abs/1502.05336) by José Miguel Hernández-Lobato, Ryan P. Adams.
 
++ [ProNet: Learning to Propose Object-specific Boxes for Cascaded Neural Networks](https://arxiv.org/abs/1511.03776) by Chen Sun, Manohar Paluri, Ronan Collobert, Ram Nevatia, Lubomir Bourdev
+
 + [Proposal-free Network for Instance-level Object Segmentation](http://arxiv.org/abs/1509.02636) by Xiaodan Liang, Yunchao Wei, Xiaohui Shen, Jianchao Yang, Liang Lin, Shuicheng Yan.
 
 + [P-CNN: Pose-based CNN Features for Action Recognition](http://arxiv.org/abs/1506.03607) by Guilhem Chéron, Ivan Laptev, Cordelia Schmid.
