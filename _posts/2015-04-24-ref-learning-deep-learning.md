@@ -491,6 +491,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Learning Deconvolution Network for Semantic Segmentation](http://arxiv.org/abs/1505.04366) by Hyeonwoo Noh, Seunghoon Hong, Bohyung Han.
 
++ [Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification](https://arxiv.org/abs/1604.07528) by Tong Xiao, Hongsheng Li, Wanli Ouyang, Xiaogang Wang.
+
 + [Learning Fine-grained Features via a CNN Tree for Large-scale Classification](http://arxiv.org/abs/1511.04534) by Zhenhua Wang, Xingxing Wang, Gang Wang.
 
 + [Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images](http://arxiv.org/abs/1504.06692) by Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille.
