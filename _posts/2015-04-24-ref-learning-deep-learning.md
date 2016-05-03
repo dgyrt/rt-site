@@ -291,6 +291,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep CNN Ensemble with Data Augmentation for Object Detection](http://arxiv.org/abs/1506.07224) by Jian Guo, Stephen Gould.
 
++ [Deep Colorization](https://arxiv.org/abs/1605.00075) by Zezhou Cheng, Qingxiong Yang, Bin Sheng.
+
 + [Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data](http://arxiv.org/abs/1511.05284) by Lisa Anne Hendricks, Subhashini Venugopalan, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Trevor Darrell.
 
 + [Deep Convolutional Matching](http://arxiv.org/abs/1506.07656) by Jerome Revaud, Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid.
@@ -366,6 +368,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Digging Deep into the layers of CNNs: In Search of How CNNs Achieve View Invariance](http://arxiv.org/abs/1508.01983) by Amr Bakry, Mohamed Elhoseiny, Tarek El-Gaaly, Ahmed Elgammal.
 
 + [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](http://arxiv.org/abs/1406.6909) by Alexey Dosovitskiy, Philipp Fischer, Jost Tobias Springenberg, Martin Riedmiller, Thomas Brox.
+
++ [DisturbLabel: Regularizing CNN on the Loss Layer](https://arxiv.org/abs/1605.00055) by Lingxi Xie, Jingdong Wang, Zhen Wei, Meng Wang, Qi Tian.
 
 + [Distributed Deep Learning Using Synchronous Stochastic Gradient Descent](http://arxiv.org/abs/1602.06709) by Dipankar Das, Sasikanth Avancha, Dheevatsa Mudigere, Karthikeyan Vaidynathan, Srinivas Sridharan, Dhiraj Kalamkar, Bharat Kaul, Pradeep Dubey.
 
@@ -474,6 +478,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](http://arxiv.org/abs/1602.07261) by Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke.
 
 + [Indexing of CNN Features for Large Scale Image Search](http://arxiv.org/abs/1508.00217) by Ruoyu Liu, Yao Zhao, Shikui Wei, Zhenfeng Zhu, Lixin Liao, Shuang Qiu.
+
++ [InterActive: Inter-Layer Activeness Propagation](https://arxiv.org/abs/1605.00052) by Lingxi Xie, Liang Zheng, Jingdong Wang, Alan Yuille, Qi Tian.
 
 + [Inverting Convolutional Networks with Convolutional Networks](http://arxiv.org/abs/1506.02753) by Alexey Dosovitskiy, Thomas Brox.
 
