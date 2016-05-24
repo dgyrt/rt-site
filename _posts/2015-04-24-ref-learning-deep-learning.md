@@ -343,6 +343,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks](http://arxiv.org/abs/1602.00991) by Peter Ondruska, Ingmar Posner.
 
++ [Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/abs/1605.06636) by Mingsheng Long, Jianmin Wang, Michael I. Jordan.
+
 + [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/deepimagesent/) by Andrej Karpathy, Fei-Fei Li.
 
 + [Deeply Improved Sparse Coding for Image Super-Resolution](http://arxiv.org/abs/1507.08905) by Zhaowen Wang, Ding Liu, Jianchao Yang, Wei Han, Thomas Huang.
@@ -380,6 +382,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623) by Karol Gregor, Ivo Danihelka, Alex Graves, Daan Wierstra.
 
 + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov.
+
++ [DynaNewton - Accelerating Newton's Method for Machine Learning](https://arxiv.org/abs/1605.06561) by Hadi Daneshmand, Aurelien Lucchi, Thomas Hofmann.
 
 + [EIE: Efficient Inference Engine on Compressed Deep Neural Network](http://arxiv.org/abs/1602.01528) by Song Han, Xingyu Liu, Huizi Mao, Jing Pu, Ardavan Pedram, Mark A. Horowitz, William J. Dally.
 
@@ -426,6 +430,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/abs/1504.06852) by Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox.
 
 + [From Facial Parts Responses to Face Detection: A Deep Learning Approach](http://arxiv.org/abs/1509.06451) by Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang.
+
++ [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211) by Evan Shelhamer, Jonathan Long, Trevor Darrell.
 
 + [Fusing Multi-Stream Deep Networks for Video Classification](http://arxiv.org/abs/1509.06086) by Zuxuan Wu, Yu-Gang Jiang, Xi Wang, Hao Ye, Xiangyang Xue, Jun Wang.
 
@@ -498,6 +504,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Learning Deconvolution Network for Semantic Segmentation](http://arxiv.org/abs/1505.04366) by Hyeonwoo Noh, Seunghoon Hong, Bohyung Han.
 
 + [Learning Deep Feature Representations with Domain Guided Dropout for Person Re-identification](https://arxiv.org/abs/1604.07528) by Tong Xiao, Hongsheng Li, Wanli Ouyang, Xiaogang Wang.
+
++ [Learning Deep Representations of Fine-grained Visual Descriptions](https://arxiv.org/abs/1605.05395) by Scott Reed, Zeynep Akata, Bernt Schiele, Honglak Lee.
 
 + [Learning Fine-grained Features via a CNN Tree for Large-scale Classification](http://arxiv.org/abs/1511.04534) by Zhenhua Wang, Xingxing Wang, Gang Wang.
 
@@ -596,6 +604,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Orthogonal RNNs and Long-Memory Tasks](http://arxiv.org/abs/1602.06662) by Mikael Henaff, Arthur Szlam, Yann LeCun.
 
 + [Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation](http://arxiv.org/abs/1506.07452) by Marijn F. Stollenga, Wonmin Byeon, Marcus Liwicki, Juergen Schmidhuber.
+
++ [Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations](https://arxiv.org/abs/1605.07154) by Behnam Neyshabur, Yuhuai Wu, Ruslan Salakhutdinov, Nathan Srebro.
 
 + [Path-SGD: Path-Normalized Optimization in Deep Neural Networks](http://arxiv.org/abs/1506.02617) by Behnam Neyshabur, Ruslan Salakhutdinov, Nathan Srebro.
 
@@ -808,6 +818,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Who's Behind the Camera? Identifying the Authorship of a Photograph](http://arxiv.org/abs/1508.05038) by Christopher Thomas, Adriana Kovashka.
 
 + [Why Regularized Auto-Encoders learn Sparse Representation?](http://arxiv.org/abs/1505.05561) by Devansh Arpit, Yingbo Zhou, Hung Ngo, Venu Govindaraju.
+
++ [Wide Residual Networks](https://arxiv.org/abs/1605.07146) by Sergey Zagoruyko, Nikos Komodakis.
 
 + [WordRank: Learning Word Embeddings via Robust Ranking](http://arxiv.org/abs/1506.02761) by Shihao Ji, Hyokun Yun, Pinar Yanardag, Shin Matsushima, S. V. N. Vishwanathan.
 
