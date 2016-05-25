@@ -463,6 +463,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Human Action Recognition using Factorized Spatio-Temporal Convolutional Networks](http://arxiv.org/abs/1510.00562) by Lin Sun, Kui Jia, Dit-Yan Yeung, Bertram E. Shi.
 
++ [Human-level concept learning through probabilistic program induction](http://science.sciencemag.org/content/350/6266/1332) by Brenden M. Lake, Ruslan Salakhutdinov, Joshua B. Tenenbaum
+
 + [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html) by Google DeepMind.
 
 + [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional) by Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton.
