@@ -299,6 +299,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Convolutional Networks are Hierarchical Kernel Machines](http://arxiv.org/abs/1508.01084) by Fabio Anselmi, Lorenzo Rosasco, Cheston Tan, Tomaso Poggio.
 
++ [Deep Directed Generative Models with Energy-Based Probability Estimation](https://arxiv.org/abs/1606.03439) by Taesup Kim, Yoshua Bengio.
+
 + [Deep Convolutional Networks on Graph-Structured Data](http://arxiv.org/abs/1506.05163) by Mikael Henaff, Joan Bruna, Yann LeCun.
 
 + [Deep Fishing: Gradient Features from Deep Nets](http://arxiv.org/abs/1507.06429) by Albert Gordo, Adrien Gaidon, Florent Perronnin.
@@ -313,6 +315,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Learning with S-shaped Rectified Linear Activation Units](http://arxiv.org/abs/1512.07030) by Xiaojie Jin, Chunyan Xu, Jiashi Feng, Yunchao Wei, Junjun Xiong, Shuicheng Yan.
 
++ [DeepMath - Deep Sequence Models for Premise Selection](https://arxiv.org/abs/1606.04442) by Alex A. Alemi, Francois Chollet, Geoffrey Irving, Christian Szegedy, Josef Urban.
+
 + [Deep multi-scale video prediction beyond mean square error](http://arxiv.org/abs/1511.05440) by Michael Mathieu, Camille Couprie, Yann LeCun.
 
 + [Deep Networks Resemble Human Feed-forward Vision in Invariant Object Recognition](http://arxiv.org/abs/1508.03929) by Saeed Reza Kheradpisheh, Masoud Ghodrati, Mohammad Ganjtabesh, Timothée Masquelier.
@@ -320,6 +324,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Deep Networks with Internal Selective Attention through Feedback Connections](http://arxiv.org/abs/1407.3068) by Marijn Stollenga, Jonathan Masci, Faustino Gomez, Jürgen Schmidhuber.
 
 + [Deep Neural Networks predict Hierarchical Spatio-temporal Cortical Dynamics of Human Visual Object Recognition](http://arxiv.org/abs/1601.02970) by Radoslaw M. Cichy, Aditya Khosla, Dimitrios Pantazis, Antonio Torralba, Aude Oliva.
+
++ [DeepProposals: Hunting Objects and Actions by Cascading Deep Convolutional Layers](https://arxiv.org/abs/1606.04702) by Amir Ghodrati, Ali Diba, Marco Pedersoli, Tinne Tuytelaars, Luc Van Gool.
 
 + [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/abs/1507.06527) by Matthew Hausknecht, Peter Stone.
 
@@ -399,6 +405,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [End-to-end people detection in crowded scenes](http://arxiv.org/abs/1506.04878) by Russell Stewart, Mykhaylo Andriluka.
 
++ [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) by Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello.
+
 + [Evaluating the visualization of what a Deep Neural Network has learned](http://arxiv.org/abs/1509.06321) by Wojciech Samek, Alexander Binder, Grégoire Montavon, Sebastian Bach, Klaus-Robert Müller.
 
 + [Exploring the Limits of Language Modeling](http://arxiv.org/abs/1602.02410) by Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, Yonghui Wu.
@@ -452,6 +460,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Guiding Long-Short Term Memory for Image Caption Generation](http://arxiv.org/abs/1509.04942) by Xu Jia, Efstratios Gavves, Basura Fernando, Tinne Tuytelaars.
 
 + [Harvesting Discriminative Meta Objects with Deep CNN Features for Scene Classification](http://arxiv.org/abs/1510.01440) by Ruobing Wu, Baoyuan Wang, Wenping Wang, Yizhou Yu.
+
++ [Hierarchical Attention Networks](https://arxiv.org/abs/1606.02393) by Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han.
 
 + [Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning](http://arxiv.org/abs/1511.03476) by Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang.
 
@@ -525,6 +535,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Learning to Compose Neural Networks for Question Answering](http://arxiv.org/abs/1601.01705) by Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein.
 
++ [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474) by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Nando de Freitas.
+
 + [Learning to Linearize Under Uncertainty](http://arxiv.org/abs/1506.03011) by Ross Goroshin, Michael Mathieu, Yann LeCun.
 
 + [Learning to See by Moving](http://arxiv.org/abs/1505.01596) by Pulkit Agrawal, Joao Carreira, Jitendra Malik.
@@ -569,7 +581,11 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Maxout Networks](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf) by Ian J. Goodfellow, David Warde-Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio.
 
++ [Memory-Efficient Backpropagation Through Time](https://arxiv.org/abs/1606.03401) by Audrūnas Gruslys, Remi Munos, Ivo Danihelka, Marc Lanctot, Alex Graves.
+
 + [Modelling Uncertainty in Deep Learning for Camera Relocalization](http://arxiv.org/abs/1509.05909) by Alex Kendall, Roberto Cipolla.
+
++ [MuFuRU: The Multi-Function Recurrent Unit](https://arxiv.org/abs/1606.03002) by Dirk Weissenborn, Tim Rocktäschel.
 
 + [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779) by Ardi Tampuu, Tambet Matiisen, Dorian Kodelja, Ilya Kuzovkin, Kristjan Korjus, Juhan Aru, Jaan Aru, Raul Vicente.
 
@@ -710,6 +726,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Stochastic Gradient Made Stable: A Manifold Propagation Approach for Large-Scale Optimization](http://arxiv.org/abs/1506.08350) by Yadong Mu, Wei Liu, Wei Fan.
 
 + [StochasticNet: Forming Deep Neural Networks via Stochastic Connectivity](http://arxiv.org/abs/1508.05463) by Mohammad Javad Shafiee, Parthipan Siva, Alexander Wong.
+
++ [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) by Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex Graves, Oriol Vinyals, Koray Kavukcuoglu.
 
 + [Studying Very Low Resolution Recognition Using Deep Networks](http://arxiv.org/abs/1601.04153) by Zhangyang Wang, Shiyu Chang, Yingzhen Yang, Ding Liu, Thomas S. Huang.
 
