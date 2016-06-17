@@ -259,6 +259,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Convolutional Pose Machines](http://arxiv.org/abs/1602.00134) by Shih-En Wei, Varun Ramakrishna, Takeo Kanade, Yaser Sheikh.
 
++ [Convolutional Residual Memory Networks](https://arxiv.org/abs/1606.05262) by Joel Moniz, Christopher Pal.
+
 + [DAG-Recurrent Neural Networks For Scene Labeling](http://arxiv.org/abs/1509.00552) by Bing Shuai, Zhen Zuo, Gang Wang, Bing Wang.
 
 + [Data-dependent Initializations of Convolutional Neural Networks](http://arxiv.org/abs/1511.06856) by Philipp Krähenbühl, Carl Doersch, Jeff Donahue, Trevor Darrell.
@@ -616,6 +618,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [On the Convergence of SGD Training of Neural Networks](http://arxiv.org/abs/1508.02790) by Thomas M. Breuel.
 
 + [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009) by Nadav Cohen, Or Sharir, Amnon Shashua.
+
++ [On the expressive power of deep neural networks](https://arxiv.org/abs/1606.05336) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein.
 
 + [Online Batch Selection for Faster Training of Neural Networks](http://arxiv.org/abs/1511.06343) by Ilya Loshchilov, Frank Hutter.
 
