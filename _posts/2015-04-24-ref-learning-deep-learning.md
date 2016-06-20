@@ -267,6 +267,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Data-free parameter pruning for Deep Neural Networks](http://arxiv.org/abs/1507.06149) by Suraj Srinivas, R. Venkatesh Babu.
 
++ [DecomposeMe: Simplifying ConvNets for End-to-End Learning](https://arxiv.org/abs/1606.05426) by Jose Alvarez, Lars Petersson.
+
 + [Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation](http://arxiv.org/abs/1506.04924) by Seunghoon Hong, Hyeonwoo Noh, Bohyung Han.
 
 + [DeepBox: Learning Objectness with Convolutional Networks](http://arxiv.org/abs/1505.02146) by Weicheng Kuo, Bharath Hariharan, Jitendra Malik.
@@ -846,6 +848,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Wide Residual Networks](https://arxiv.org/abs/1605.07146) by Sergey Zagoruyko, Nikos Komodakis.
 
 + [WordRank: Learning Word Embeddings via Robust Ranking](http://arxiv.org/abs/1506.02761) by Shihao Ji, Hyokun Yun, Pinar Yanardag, Shin Matsushima, S. V. N. Vishwanathan.
+
++ [YodaNN: An Ultra-Low Power Convolutional Neural Network Accelerator Based on Binary Weights](https://arxiv.org/abs/1606.05487) by Renzo Andri, Lukas Cavigelli, Davide Rossi, Luca Benini.
 
 + [You Only Look Once: Unified, Real-Time Object Detection](http://arxiv.org/abs/1506.02640) by Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi.
 
