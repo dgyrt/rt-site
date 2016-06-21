@@ -55,6 +55,8 @@ _If you have no idea about Machine Learning and Scientific Computing, I suggest 
 
 + [Reading lists for new LISA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#heading=h.5r7p5dbrilt4) by LISA Lab, University of Montreal.
 
++ [Tutorial on Variational Autoencoders](https://arxiv.org/abs/1606.05908) by Carl Doersch.
+
 ### Tutorials, Practical Guides, and Useful Software
 
 + [Machine Learning](https://www.coursera.org/course/ml) by Andrew Ng.
@@ -623,6 +625,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [On the expressive power of deep neural networks](https://arxiv.org/abs/1606.05336) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein.
 
++ [Online and Offline Handwritten Chinese Character Recognition: A Comprehensive Study and New Benchmark](https://arxiv.org/abs/1606.05763) by Xu-Yao Zhang, Yoshua Bengio, Cheng-Lin Liu.
+
 + [Online Batch Selection for Faster Training of Neural Networks](http://arxiv.org/abs/1511.06343) by Ilya Loshchilov, Frank Hutter.
 
 + [Orthogonal RNNs and Long-Memory Tasks](http://arxiv.org/abs/1602.06662) by Mikael Henaff, Arthur Szlam, Yann LeCun.
@@ -674,6 +678,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Recurrent Reinforcement Learning: A Hybrid Approach](http://arxiv.org/abs/1509.03044) by Xiujun Li, Lihong Li, Jianfeng Gao, Xiaodong He, Jianshu Chen, Li Deng, Ji He.
 
 + [Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Detection](http://arxiv.org/abs/1508.04843) by Kisuk Lee, Aleksandar Zlateski, Ashwin Vishwanathan, H. Sebastian Seung.
+
++ [Relative Natural Gradient for Learning Large Complex Models](https://arxiv.org/abs/1606.06069) by Ke Sun, Frank Nielsen.
 
 + [Render for CNN: Viewpoint Estimation in Images Using CNNs Trained with Rendered 3D Model Views](http://arxiv.org/abs/1505.05641) by Hao Su, Charles R. Qi, Yangyan Li, Leonidas Guibas.
 
