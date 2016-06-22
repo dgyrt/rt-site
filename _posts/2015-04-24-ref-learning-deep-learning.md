@@ -393,6 +393,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623) by Karol Gregor, Ivo Danihelka, Alex Graves, Daan Wierstra.
 
++ [Drawing and Recognizing Chinese Characters with Recurrent Neural Network](https://arxiv.org/abs/1606.06539) by Xu-Yao Zhang, Fei Yin, Yan-Ming Zhang, Cheng-Lin Liu, Yoshua Bengio.
+
 + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov.
 
 + [DynaNewton - Accelerating Newton's Method for Machine Learning](https://arxiv.org/abs/1605.06561) by Hadi Daneshmand, Aurelien Lucchi, Thomas Hofmann.
@@ -619,6 +621,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/abs/1511.09249) by Juergen Schmidhuber.
 
++ [On Multiplicative Integration with Recurrent Neural Networks](https://arxiv.org/abs/1606.06630) by Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov.
+
 + [On the Convergence of SGD Training of Neural Networks](http://arxiv.org/abs/1508.02790) by Thomas M. Breuel.
 
 + [On the Expressive Power of Deep Learning: A Tensor Analysis](http://arxiv.org/abs/1509.05009) by Nadav Cohen, Or Sharir, Amnon Shashua.
@@ -752,6 +756,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Structured Memory for Neural Turing Machines](http://arxiv.org/abs/1510.03931) by Wei Zhang, Yang Yu.
 
 + [Symmetry-invariant optimization in deep networks](http://arxiv.org/abs/1511.01754) by Vijay Badrinarayanan, Bamdev Mishra, Roberto Cipolla.
+
++ [Tagger: Deep Unsupervised Perceptual Grouping](https://arxiv.org/abs/1606.06724) by Klaus Greff, Antti Rasmus, Mathias Berglund, Tele Hotloo Hao, Jürgen Schmidhuber, Harri Valpola.
 
 + [Task Loss Estimation for Sequence Prediction](http://arxiv.org/abs/1511.06456) by Dzmitry Bahdanau, Dmitriy Serdyuk, Philémon Brakel, Nan Rosemary Ke, Jan Chorowski, Aaron Courville, Yoshua Bengio.
 
