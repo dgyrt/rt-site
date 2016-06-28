@@ -179,6 +179,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/abs/1507.05717) by Baoguang Shi, Xiang Bai, Cong Yao.
 
++ [An Uncertain Future: Forecasting from Static Images using Variational Autoencoders](https://arxiv.org/abs/1606.07873) by Jacob Walker, Carl Doersch, Abhinav Gupta, Martial Hebert.
+
 + [Answer Sequence Learning with Neural Networks for Answer Selection in Community Question Answering](http://arxiv.org/abs/1506.06490) by Xiaoqiang Zhou, Baotian Hu, Qingcai Chen, Buzhou Tang, Xiaolong Wang.
 
 + [Anticipating the future by watching unlabeled video](http://arxiv.org/abs/1504.08023) by Carl Vondrick, Hamed Pirsiavash, Antonio Torralba.
@@ -394,6 +396,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623) by Karol Gregor, Ivo Danihelka, Alex Graves, Daan Wierstra.
 
 + [Drawing and Recognizing Chinese Characters with Recurrent Neural Network](https://arxiv.org/abs/1606.06539) by Xu-Yao Zhang, Fei Yin, Yan-Ming Zhang, Cheng-Lin Liu, Yoshua Bengio.
+
++ [DropNeuron: Simplifying the Structure of Deep Neural Networks](https://arxiv.org/abs/1606.07326) by Wei Pan, Hao Dong, Yike Guo.
 
 + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov.
 
