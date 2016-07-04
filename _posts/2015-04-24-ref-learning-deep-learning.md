@@ -321,6 +321,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Deep Learning Face Attributes in the Wild](http://arxiv.org/abs/1411.7766) by Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang.
 
++ [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) by Martín Abadi, Andy Chu, Ian Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang.
+
 + [Deep Learning with S-shaped Rectified Linear Activation Units](http://arxiv.org/abs/1512.07030) by Xiaojie Jin, Chunyan Xu, Jiashi Feng, Yunchao Wei, Junjun Xiong, Shuicheng Yan.
 
 + [DeepMath - Deep Sequence Models for Premise Selection](https://arxiv.org/abs/1606.04442) by Alex A. Alemi, Francois Chollet, Geoffrey Irving, Christian Szegedy, Josef Urban.
@@ -400,6 +402,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [DropNeuron: Simplifying the Structure of Deep Neural Networks](https://arxiv.org/abs/1606.07326) by Wei Pan, Hao Dong, Yike Guo.
 
 + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/v15/srivastava14a.html) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov.
+
++ [Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes](https://arxiv.org/abs/1607.00036) by Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio.
 
 + [DynaNewton - Accelerating Newton's Method for Machine Learning](https://arxiv.org/abs/1605.06561) by Hadi Daneshmand, Aurelien Lucchi, Thomas Hofmann.
 
