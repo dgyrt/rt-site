@@ -395,6 +395,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Do Deep Neural Networks Learn Facial Action Units When Doing Expression Recognition?](http://arxiv.org/abs/1510.02969) by Pooya Khorrami, Tom Le Paine, Thomas S. Huang.
 
++ [Do semantic parts emerge in Convolutional Neural Networks?](https://arxiv.org/abs/1607.03738) by Abel Gonzalez-Garcia, Davide Modolo, Vittorio Ferrari.
+
 + [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623) by Karol Gregor, Ivo Danihelka, Alex Graves, Daan Wierstra.
 
 + [Drawing and Recognizing Chinese Characters with Recurrent Neural Network](https://arxiv.org/abs/1606.06539) by Xu-Yao Zhang, Fei Yin, Yan-Ming Zhang, Cheng-Lin Liu, Yoshua Bengio.
@@ -626,6 +628,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) by Łukasz Kaiser, Ilya Sutskever.
 
 + [Neural Random-Access Machines](http://arxiv.org/abs/1511.06392) by Karol Kurach, Marcin Andrychowicz, Ilya Sutskever.
+
++ [Neural Semantic Encoders](https://arxiv.org/abs/1607.04315) by Tsendsuren Munkhdalai, Hong Yu.
 
 + [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](http://arxiv.org/abs/1511.09249) by Juergen Schmidhuber.
 
