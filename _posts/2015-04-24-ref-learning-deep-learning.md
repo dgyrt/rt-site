@@ -529,6 +529,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Large Margin Deep Neural Networks: Theory and Algorithms](http://arxiv.org/abs/1506.05232) by Shizhao Sun, Wei Chen, Liwei Wang, Tie-Yan Liu.
 
++ [Layer Normalization](https://arxiv.org/abs/1607.06450) by Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton.
+
 + [Learning Contextual Dependencies with Convolutional Hierarchical Recurrent Neural Networks](http://arxiv.org/abs/1509.03877) by Zhen Zuo, Bing Shuai, Gang Wang, Xiao Liu, Xingxing Wang, Bing Wang.
 
 + [Learning Deconvolution Network for Semantic Segmentation](http://arxiv.org/abs/1505.04366) by Hyeonwoo Noh, Seunghoon Hong, Bohyung Han.
