@@ -199,6 +199,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Associative Long Short-Term Memory](http://arxiv.org/abs/1602.03032) by Ivo Danihelka, Greg Wayne, Benigno Uria, Nal Kalchbrenner, Alex Graves.
 
++ [Asynchronous Stochastic Gradient Descent with Delay Compensation for Distributed Deep Learning](https://arxiv.org/abs/1609.08326) by Shuxin Zheng, Qi Meng, Taifeng Wang, Wei Chen, Nenghai Yu, Zhi-Ming Ma, Tie-Yan Liu.
+
 + [AttentionNet: Aggregating Weak Directions for Accurate Object Detection](http://arxiv.org/abs/1506.07704) by Donggeun Yoo, Sunggyun Park, Joon-Young Lee, Anthony Paek, In So Kweon.
 
 + [Attention-Based Models for Speech Recognition](http://arxiv.org/abs/1506.07503) by Jan Chorowski, Dzmitry Bahdanau, Dmitriy Serdyuk, Kyunghyun Cho, Yoshua Bengio.
