@@ -177,6 +177,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [All you need is a good init](http://arxiv.org/abs/1511.06422) by Dmytro Mishkin, Jiri Matas.
 
++ [An Efficient Approach to Boosting Performance of Deep Spiking Network Training](https://arxiv.org/abs/1611.02416) by Seongsik Park, Sang-gil Lee, Hyunha Nam, Sungroh Yoon.
+
 + [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/abs/1507.05717) by Baoguang Shi, Xiang Bai, Cong Yao.
 
 + [An Uncertain Future: Forecasting from Static Images using Variational Autoencoders](https://arxiv.org/abs/1606.07873) by Jacob Walker, Carl Doersch, Abhinav Gupta, Martial Hebert.
@@ -629,6 +631,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Net2Net: Accelerating Learning via Knowledge Transfer](http://arxiv.org/abs/1511.05641) by Tianqi Chen, Ian Goodfellow, Jonathon Shlens.
 
++ [Neural Functional Programming](https://arxiv.org/abs/1611.01988) by John K. Feser, Marc Brockschmidt, Alexander L. Gaunt, Daniel Tarlow.
+
 + [Neural GPUs Learn Algorithms](http://arxiv.org/abs/1511.08228) by Łukasz Kaiser, Ilya Sutskever.
 
 + [Neural Random-Access Machines](http://arxiv.org/abs/1511.06392) by Karol Kurach, Marcin Andrychowicz, Ilya Sutskever.
@@ -697,6 +701,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Recurrent Reinforcement Learning: A Hybrid Approach](http://arxiv.org/abs/1509.03044) by Xiujun Li, Lihong Li, Jianfeng Gao, Xiaodong He, Jianshu Chen, Li Deng, Ji He.
 
++ [Recursive Decomposition for Nonconvex Optimization](https://arxiv.org/abs/1611.02755) by Abram L. Friesen, Pedro Domingos.
+
 + [Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Detection](http://arxiv.org/abs/1508.04843) by Kisuk Lee, Aleksandar Zlateski, Ashwin Vishwanathan, H. Sebastian Seung.
 
 + [Relative Natural Gradient for Learning Large Complex Models](https://arxiv.org/abs/1606.06069) by Ke Sun, Frank Nielsen.
@@ -710,6 +716,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Reuse of Neural Modules for General Video Game Playing](http://arxiv.org/abs/1512.01537) by Alexander Braylan, Mark Hollenbeck, Elliot Meyerson, Risto Miikkulainen.
 
 + [Rich feature hierarchies for accurate object detection and semantic segmentation](http://arxiv.org/abs/1311.2524) by Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik.
+
++ [RL2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) by Yan Duan, John Schulman, Xi Chen, Peter L. Bartlett, Ilya Sutskever, Pieter Abbeel.
 
 + [Scaling Up Natural Gradient by Sparsely Factorizing the Inverse Fisher Matrix](http://www.cs.toronto.edu/~rgrosse/icml2015-fang.pdf) by Roger B. Grosse, Ruslan Salakhutdinov.
 
