@@ -151,6 +151,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [A Restricted Visual Turing Test for Deep Scene and Event Understanding](http://arxiv.org/abs/1512.01715) by Hang Qi, Tianfu Wu, Mun-Wai Lee, Song-Chun Zhu.
 
++ [A Self-Driving Robot Using Deep Convolutional Neural Networks on Neuromorphic Hardware](https://arxiv.org/abs/1611.01235) by Tiffany Hwu, Jacob Isbell, Nicolas Oros, Jeffrey Krichmar.
+
 + [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820) by Ye Zhang, Byron Wallace.
 
 + [ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering](http://arxiv.org/abs/1511.05960) by Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia.
@@ -310,6 +312,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Deep Convolutional Matching](http://arxiv.org/abs/1506.07656) by Jerome Revaud, Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid.
 
 + [Deep Convolutional Networks are Hierarchical Kernel Machines](http://arxiv.org/abs/1508.01084) by Fabio Anselmi, Lorenzo Rosasco, Cheston Tan, Tomaso Poggio.
+
++ [Deep Convolutional Neural Network Design Patterns](https://arxiv.org/abs/1611.00847) by Leslie N. Smith, Nicholay Topin.
 
 + [Deep Directed Generative Models with Energy-Based Probability Estimation](https://arxiv.org/abs/1606.03439) by Taesup Kim, Yoshua Bengio.
 
@@ -475,6 +479,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Geometry-aware Deep Transform](http://arxiv.org/abs/1509.05360) by Jiaji Huang, Qiang Qiu, Robert Calderbank, Guillermo Sapiro.
 
++ [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558) by Melvin Johnson, Mike Schuster, Quoc V. Le, Maxim Krikun, Yonghui Wu, Zhifeng Chen, Nikhil Thorat, Fernanda Viégas, Martin Wattenberg, Greg Corrado, Macduff Hughes, Jeffrey Dean.
+
 + [Gradual DropIn of Layers to Train Very Deep Neural Networks](http://arxiv.org/abs/1511.06951) by Leslie N. Smith, Emily M. Hand, Timothy Doster.
 
 + [Grid Long Short-Term Memory](http://arxiv.org/abs/1507.01526) by Nal Kalchbrenner, Ivo Danihelka, Alex Graves.
@@ -485,6 +491,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Hierarchical Attention Networks](https://arxiv.org/abs/1606.02393) by Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han.
 
++ [Hierarchical Object Detection with Deep Reinforcement Learning](https://arxiv.org/abs/1611.03718) by Miriam Bellver, Xavier Giro-i-Nieto, Ferran Marques, Jordi Torres.
+
 + [Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning](http://arxiv.org/abs/1511.03476) by Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang.
 
 + [Highway Networks](http://arxiv.org/abs/1505.00387) by Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber.
@@ -492,6 +500,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [How far can we go without convolution: Improving fully-connected networks](http://arxiv.org/abs/1511.02580) by Zhouhan Lin, Roland Memisevic, Kishore Konda.
 
 + [How Important is Weight Symmetry in Backpropagation?](http://arxiv.org/abs/1510.05067) by Qianli Liao, Joel Z. Leibo, Tomaso Poggio.
+
++ [How to scale distributed deep learning?](https://arxiv.org/abs/1611.04581) by Peter H. Jin, Qiaochu Yuan, Forrest Iandola, Kurt Keutzer.
 
 + [Human Action Recognition using Factorized Spatio-Temporal Convolutional Networks](http://arxiv.org/abs/1510.00562) by Lin Sun, Kui Jia, Dit-Yan Yeung, Bertram E. Shi.
 
@@ -649,6 +659,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [On the expressive power of deep neural networks](https://arxiv.org/abs/1606.05336) by Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein.
 
++ [One-Shot Video Object Segmentation](https://arxiv.org/abs/1611.05198) by Sergi Caelles, Kevis-Kokitsi Maninis, Jordi Pont-Tuset, Laura Leal-Taixé, Daniel Cremers, Luc Van Gool.
+
 + [Online and Offline Handwritten Chinese Character Recognition: A Comprehensive Study and New Benchmark](https://arxiv.org/abs/1606.05763) by Xu-Yao Zhang, Yoshua Bengio, Cheng-Lin Liu.
 
 + [Online Batch Selection for Faster Training of Neural Networks](http://arxiv.org/abs/1511.06343) by Ilya Loshchilov, Frank Hutter.
@@ -749,6 +761,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 
 + [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726) by Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler.
 
++ [Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks](https://arxiv.org/abs/1611.01427) by Arash Ardakani, Carlo Condo, Warren J. Gross.
+
 + [Sparsifying Neural Network Connections for Face Recognition](http://arxiv.org/abs/1512.01891) by Yi Sun, Xiaogang Wang, Xiaoou Tang.
 
 + [Spatial Semantic Regularisation for Large Scale Object Detection](http://arxiv.org/abs/1510.02949) by Damian Mrowca, Marcus Rohrbach, Judy Hoffman, Ronghang Hu, Kate Saenko, Trevor Darrell.
@@ -762,6 +776,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Stacked What-Where Auto-encoders](http://arxiv.org/abs/1506.02351) by Junbo Zhao, Michael Mathieu, Ross Goroshin, Yann Lecun.
 
 + [STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation](http://arxiv.org/abs/1509.03150) by Yunchao Wei, Xiaodan Liang, Yunpeng Chen, Xiaohui Shen, Ming-Ming Cheng, Yao Zhao, Shuicheng Yan.
+
++ [STDP-based spiking deep neural networks for object recognition](https://arxiv.org/abs/1611.01421) by Saeed Reza Kheradpisheh, Mohammad Ganjtabesh, Simon J Thorpe, Timothée Masquelier.
 
 + [Stochastic Gradient Made Stable: A Manifold Propagation Approach for Large-Scale Optimization](http://arxiv.org/abs/1506.08350) by Yadong Mu, Wei Liu, Wei Fan.
 
@@ -826,6 +842,8 @@ _Most of papers here are produced in 2014 and after. Survey papers or review pap
 + [Unconstrained Face Verification using Deep CNN Features](http://arxiv.org/abs/1508.01722) by Jun-Cheng Chen, Vishal M. Patel, Rama Chellappa.
 
 + [Un-regularizing: approximate proximal point and faster stochastic algorithms for empirical risk minimization](http://arxiv.org/abs/1506.07512) by Roy Frostig, Rong Ge, Sham M. Kakade, Aaron Sidford.
+
++ [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530) by Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals.
 
 + [Understanding Locally Competitive Networks](http://arxiv.org/abs/1410.1165) by Rupesh Kumar Srivastava, Jonathan Masci, Faustino Gomez, Jürgen Schmidhuber.
 
