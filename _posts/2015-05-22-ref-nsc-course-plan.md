@@ -25,43 +25,43 @@ Under the assumption that there is no move of time.
 
 #### Spring Semester 2016
 
-|Code        |Title                                                 |Credit  |Location  |Time                       |Remarks|
-|:-----------|:-----------------------------------------------------|:------:|----------|---------------------------|-------|
-|INI-702     |Journal Club (Core)                                   |2CP     |Y55 G 54  |WED 1300-1400              |       |
-|INI-413     |Auditory Informatics                                  |2CP     |Y55 G 20  |WED 1500-1600              |       |
-|INI-402     |Computational Vision (Elective Core)                  |6CP     |Y35 F 32  |THU 1700-1900              |       |
-|INI-427     |Models of Computation (Elective Core)                 |6CP     |ML F 39   |FRI 1400-1600 TUE 1500-1600|       |
-|INI-417     |Computer Simulations of Sensory Systems               |3CP     |ETZ G 91  |MON 1200-1400 MON 1400-1600|Bi-week|
-|INI701      |Colloquium (Core)                                     |0CP     |Y35 F 32  |FRI 1600-1700              |       |
-|INI-505     |NSC Master Short Project I                            |8CP     |          |                           |       |
-|INI-506     |NSC Master Short Project II                           |8CP     |          |                           |       |
+|Code        |Title                                                 |Credit  |Location  |Time                       |Remarks|Pass|
+|:-----------|:-----------------------------------------------------|:------:|----------|---------------------------|-------|----|
+|INI-702     |Journal Club (Core)                                   |2CP     |Y55 G 54  |WED 1300-1400              |       |    |
+|INI-413     |Auditory Informatics                                  |2CP     |Y55 G 20  |WED 1500-1600              |       |Y   |
+|INI-402     |Computational Vision (Elective Core)                  |6CP     |Y35 F 32  |THU 1700-1900              |       |Y   |
+|INI-427     |Models of Computation (Elective Core)                 |6CP     |ML F 39   |FRI 1400-1600 TUE 1500-1600|       |Y   |
+|INI-417     |Computer Simulations of Sensory Systems               |3CP     |ETZ G 91  |MON 1200-1400 MON 1400-1600|Bi-week|Y   |
+|INI701      |Colloquium (Core)                                     |0CP     |Y35 F 32  |FRI 1600-1700              |       |Y   |
+|INI-505     |NSC Master Short Project I                            |8CP     |          |                           |       |Y   |
+|INI-506     |NSC Master Short Project II                           |8CP     |          |                           |       |Y   |
 
 In total: 19 CPs + 16 CPs (short projects) = 35 CPs
 
 #### Fall Semester 2016
 
-|Code        |Title                                                             |Credit  |Location  |Time         |Remarks|
-|:-----------|:-----------------------------------------------------------------|:------:|----------|-------------|-------|
-|INI-502     |Basics of instrumentation, measurement and analysis (Core)        |4CP     |Y35 E 30  |TUE 0800-1200|       |
-|INI-431     |Readings in Neuroinformatics (Core)                               |3CP     |Y55 G 20  |MON 1700-1800|       |
-|INI-401     |Introduction to Neuroinformatics (Elective Core)                  |6CP     |Y35 F 32  |WED 1000-1300|       |
-|BIO-343     |Structure, Plasticity and Repair of the Nervous System (Extra)    |3CP     |Y15 G 40  |MON 1015-1200|       |
-|BIO-344     |Development of the Nervous System (Extra)                         |3CP     |Y15 G 40  |MON 0800-0945|       |
-|INI-410     |Consciousness: From Philosophy to Neuroscience                    |3CP     |Y35 F 32  |THU 1700-1900|       |
-|151-0623-00L|ETH Zurich Distinguished Seminar in Robotics, Systems and Controls|1CP     |HG G 3    |FRI 1500-1700|Bi-week|
+|Code        |Title                                                             |Credit  |Location  |Time         |Remarks|Pass|
+|:-----------|:-----------------------------------------------------------------|:------:|----------|-------------|-------|----|
+|INI-502     |Basics of instrumentation, measurement and analysis (Core)        |4CP     |Y35 E 30  |TUE 0800-1200|       |    |
+|INI-431     |Readings in Neuroinformatics (Core)                               |3CP     |Y55 G 20  |MON 1700-1800|       |Y   |
+|INI-401     |Introduction to Neuroinformatics (Elective Core)                  |6CP     |Y35 F 32  |WED 1000-1300|       |    |
+|BIO-343     |Structure, Plasticity and Repair of the Nervous System (Extra)    |3CP     |Y15 G 40  |MON 1015-1200|       |Y   |
+|BIO-344     |Development of the Nervous System (Extra)                         |3CP     |Y15 G 40  |MON 0800-0945|       |    |
+|INI-410     |Consciousness: From Philosophy to Neuroscience                    |3CP     |Y35 F 32  |THU 1700-1900|       |Y   |
+|151-0623-00L|ETH Zurich Distinguished Seminar in Robotics, Systems and Controls|1CP     |HG G 3    |FRI 1500-1700|Bi-week|Y   |
+|851-0144-21L|Philosophical Issues and Problems in Theoretical Computer Science |3CP     |          |MON WED      |       |Y   |
 
-In total: 23 CPs
+In total: 26 CPs
 
 #### Spring Semester 2017
 
-|Code        |Title                                                         |Credit  |Location  |Time         |Remarks|
-|:-----------|:-------------------------------------------------------------|:------:|----------|-------------|-------|
-|252-5251-00L|Computational Science                                         |2CP     |CAB G 52  |TUE 1500-1700|       |
-|INI-412     |Complex Systems: Computable Chaos in Dynamical Systems        |6CP     |HIT J 53  |WED 1045-1400|       |
-|376-1414-00L|Current Topics in Brain Research                              |1CP     |Y35 F 32  |MON 1200-1400|       |
-|INI-504     |NSC Master Thesis (short) and Exam                            |29CP    |          |             |       |
+|Code        |Title                                                         |Credit  |Location  |Time         |Remarks|Pass|
+|:-----------|:-------------------------------------------------------------|:------:|----------|-------------|-------|----|
+|252-5251-00L|Computational Science                                         |2CP     |CAB G 52  |TUE 1500-1700|       |    |
+|INI-412     |Complex Systems: Computable Chaos in Dynamical Systems        |6CP     |HIT J 53  |WED 1045-1400|       |    |
+|INI-504     |NSC Master Thesis (short) and Exam                            |29CP    |          |             |       |    |
 
-In total: 9 CPs + 29CPs (thesis) = 38CPs
+In total: 8 CPs + 29CPs (thesis) = 37CPs
 
 #### Resources
 
